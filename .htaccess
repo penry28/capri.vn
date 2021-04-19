@@ -1,0 +1,21 @@
+RewriteEngine On
+
+RewriteRule "^gioi-thieu.html" "index.php?mod=aboutus"
+
+RewriteRule "^danh-muc-san-pham/([a-zA-Z0-9_-]+)-([0-9]+).html" "index.php?mod=cates&id=$2"
+
+RewriteRule "^danh-muc-san-pham/tat-ca.html" "index.php?mod=cates&action=allCate"
+
+RewriteRule "^san-pham/([a-zA-Z0-9_-]+)-([0-9]+).html" "index.php?mod=products&id=$2"
+
+RewriteRule "^danh-muc-bai-viet/tat-ca.html" "index.php?mod=blog"
+
+RewriteRule "^danh-muc-bai-viet/([a-zA-Z0-9_-]+)-([0-9]+).html" "index.php?mod=blog&id=$2"
+
+RewriteRule "^bai-viet/([a-zA-Z0-9_-]+)-([0-9]+).html" "index.php?mod=blog&action=detail&id=$2"
+
+RewriteRule "^chinh-sach/([a-zA-Z0-9_-]+)-([0-9]+).html" "index.php?mod=policy&id=$2"
+
+RewriteRule "^ho-tro/([a-zA-Z0-9_-]+).html" "index.php?mod=products&action=support&type=$1"
+
+RewriteRule ^search/(.*)$ index.php?mod=search&q=$1 [QSA]

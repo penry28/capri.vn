@@ -1,0 +1,214 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,500);
+*:focus {
+    outline: none;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background: #DDD;
+    font-size: 16px;
+    color: #222;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+#app {
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    background: url(../images/prod/nhung-luu-y-ve-phong-thuy-khi-thiet-ke-khong-gian-bep-1.jpg) no-repeat center;
+    background-size: cover;
+    object-fit: cover;
+}
+
+#login-box {
+    position: relative;
+    margin: 5% auto;
+    width: 600px;
+    height: 400px;
+    background: #FFF;
+    border-radius: 2px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+}
+
+.left {
+    position: absolute;
+    top: 0;
+    left: 0;
+    box-sizing: border-box;
+    padding: 35px;
+    width: 300px;
+    height: 400px;
+}
+
+h1 {
+    margin: 0 0 20px 0;
+    font-weight: 300;
+    font-size: 28px;
+}
+
+input[type="text"],
+input[type="password"],
+select {
+    display: block;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    padding: 4px;
+    width: 100%;
+    height: 32px;
+    border: none;
+    border-bottom: 1px solid #AAA;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    transition: 0.2s ease;
+}
+
+select {
+    color: #6d6a6a;
+}
+
+input[type="text"]:focus,
+input[type="password"]:focus {
+    border-bottom: 2px solid #16a085;
+    color: #16a085;
+    transition: 0.2s ease;
+}
+
+button[type="submit"] {
+    margin-top: 28px;
+    width: 120px;
+    height: 32px;
+    background: #16a085;
+    border: none;
+    border-radius: 2px;
+    color: #FFF;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    text-transform: uppercase;
+    transition: 0.1s ease;
+    cursor: pointer;
+}
+
+button[type="submit"]:hover,
+button[type="submit"]:focus {
+    opacity: 0.8;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+    transition: 0.1s ease;
+}
+
+button[type="submit"]:active {
+    opacity: 1;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.4);
+    transition: 0.1s ease;
+}
+
+.or {
+    position: absolute;
+    top: 180px;
+    left: 280px;
+    width: 40px;
+    height: 40px;
+    background: #DDD;
+    border-radius: 50%;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+    line-height: 40px;
+    text-align: center;
+}
+
+.right {
+    position: absolute;
+    top: 0;
+    right: 0;
+    box-sizing: border-box;
+    padding: 40px;
+    width: 300px;
+    height: 400px;
+    background: url('https://i.pinimg.com/originals/03/cf/d7/03cfd7d76f01fbc7f5fecc73eba6e93a.jpg');
+    background-size: cover;
+    background-position: center;
+    border-radius: 0 2px 2px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.right .loginwith {
+    display: block;
+    font-size: 35px;
+    color: #FFF;
+    text-align: center;
+    font-weight: bold;
+}
+
+button.social-signin {
+    margin-bottom: 20px;
+    width: 220px;
+    height: 36px;
+    border: none;
+    border-radius: 2px;
+    color: #FFF;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    transition: 0.2s ease;
+    cursor: pointer;
+}
+
+button.social-signin:hover,
+button.social-signin:focus {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+    transition: 0.2s ease;
+}
+
+button.social-signin:active {
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.4);
+    transition: 0.2s ease;
+}
+
+button.social-signin.facebook {
+    background: #32508E;
+}
+
+button.social-signin.twitter {
+    background: #55ACEE;
+}
+
+button.social-signin.google {
+    background: #DD4B39;
+}
+
+.form-group label[for='remember-me'] {
+    font-family: 'Roboto', sans-serif;
+    color: #717171;
+    font-size: .9rem;
+    cursor: pointer;
+}
+
+.lost-pass-view,
+.login-view {
+    color: var(--main-color);
+    font-size: .9rem;
+    margin-top: 10px;
+}
+
+.toggle-view-pass {
+    top: 50%;
+    right: 0;
+    transform: translateY(-60%);
+    color: #6d6a6a;
+    cursor: pointer;
+}
+
+.form-group {
+    position: relative;
+}
+
+.error {
+    position: absolute;
+    bottom: -19px;
+    font-size: .7rem;
+    font-style: italic;
+    color: #d20000;
+    left: 0;
+}

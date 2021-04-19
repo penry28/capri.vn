@@ -1,0 +1,202 @@
+#main-content-wrap {
+    margin-top: 90px;
+}
+
+
+/* section  add-cate-prod*/
+
+section.add-cate-prod {
+    margin: 15px;
+    background-color: var(--main-color);
+    padding: 15px;
+}
+
+section.add-cate-prod .form-add-cate .form-wrap .form-info-item-wrap {
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.12);
+    margin: 10px;
+    padding: 15px;
+}
+
+section.add-cate-prod .form-add-cate .form-wrap .form-info-item-wrap .top-title {
+    color: var(--primary-color);
+    font-size: 1.4rem;
+    margin-bottom: 20px;
+    justify-content: center;
+}
+
+section.add-cate-prod .form-add-cate .form-wrap .form-info-item-wrap .primary-title {
+    display: block;
+    color: var(--primary-color);
+    margin-bottom: 10px;
+    border-bottom: 1px solid rgba(225, 225, 225, 0.3);
+    padding: 10px;
+}
+
+section.add-cate-prod .form-add-cate .form-wrap .form-info-item-wrap .form-control {
+    background-color: var(--secound-color);
+    border: 1px solid rgba(225, 225, 225, 0.12);
+    border-radius: 0;
+    color: var(--primary-color);
+    position: relative;
+}
+
+section.add-cate-prod .form-add-cate .form-wrap .form-info-item-wrap textarea.form-control {
+    font-family: "Montserrat-Regular";
+}
+
+section.add-cate-prod .form-add-cate .form-wrap .form-info-item-wrap .top-title .fa {
+    margin-right: 10px;
+    font-size: 2rem;
+}
+
+section.add-cate-prod .form-add-cate .form-info-left .banner-img-demo {
+    padding: 10px;
+    border: 1px solid rgba(225, 225, 225, .3);
+}
+
+section.add-cate-prod .form-add-cate .form-info-left .banner-img-demo .thumbNail {
+    width: 420px;
+    height: 250px;
+}
+
+section.add-cate-prod .form-add-cate .form-info-left .banner-img-demo .thumbNail img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+section.add-cate-prod .form-add-cate .form-info-left .banner-img-info {
+    margin-left: 10px;
+    border: 1px solid rgba(225, 225, 225, .3);
+    padding: 10px;
+    width: 100%;
+}
+
+section.add-cate-prod .form-add-cate .wrap-banner-form .error {
+    position: absolute;
+    bottom: -24px;
+    color: #ff4f4f;
+    font-size: .9rem;
+    font-style: italic;
+}
+
+section.add-cate-prod .add-new-cate {
+    background-color: #ffffff;
+    font-size: 1rem;
+    padding: 10px 10px;
+    width: 100%;
+    letter-spacing: 1px;
+    border: none;
+    cursor: pointer;
+}
+
+
+/* add more */
+
+.image-banner-cate {
+    background-color: #ffffff;
+    padding: 5px 10px;
+    cursor: pointer;
+    color: var(--main-color);
+}
+
+
+/* error */
+
+.error-catalogue {
+    color: #fd2323;
+    font-size: .9rem;
+    font-style: italic;
+}
+
+.view-info-list-slide {
+    background-color: #fff;
+    border: none;
+    padding: 5px 10px;
+    font-size: 1.1rem;
+    letter-spacing: 1px;
+    cursor: pointer;
+    color: var(--main-color);
+}
+
+
+/* modal info slide */
+
+#info-slide.modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: -1;
+    opacity: 0;
+    visibility: hidden;
+}
+
+#info-slide.modal.open {
+    z-index: 1000000000;
+    opacity: 1;
+    visibility: visible;
+}
+
+#info-slide.modal .modal-mask {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#info-slide.modal .modal-title {
+    text-align: center;
+    font-size: 1.7rem;
+    background-color: #fff;
+    padding: 10px 40px;
+}
+
+#info-slide.modal .modal-content {
+    position: relative;
+    width: 50%;
+    height: 90%;
+    background-color: var(--main-color);
+    padding: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+#info-slide.modal .modal-content .modal-body {
+    overflow: auto;
+    height: 585px;
+    display: flex;
+    justify-content: center;
+}
+
+#info-slide.modal .slide-item {
+    margin: 20px 0;
+}
+
+#info-slide.modal .slide-item .slide-img {
+    margin-right: 30px;
+}
+
+#info-slide.modal .slide-item .slide-img .thumbNail {
+    width: 400px;
+}
+
+#info-slide.modal .slide-item .slide-img .thumbNail img {
+    width: 100%;
+    height: 250px;
+}
+
+#info-slide.modal .modal-title h4 {
+    font-weight: 100;
+}
+
+#info-slide.modal .modal-title .close-modal {
+    cursor: pointer;
+    padding: 3px 7px;
+    font-size: 1.2rem;
+}

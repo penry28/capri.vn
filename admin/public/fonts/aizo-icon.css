@@ -1,0 +1,316 @@
+@font-face {
+    font-family: 'aizo';
+    src: url('../fonts/aizo.ttf?nukgc0') format('truetype'), url('../fonts/aizo.woff?nukgc0') format('woff'), url('../fonts/aizo.svg?nukgc0#aizo') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.icon {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'aizo' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.aizo-alarm:before {
+    content: "\e900";
+}
+
+.aizo-alarm-clock:before {
+    content: "\e901";
+}
+
+.aizo-analytics:before {
+    content: "\e902";
+}
+
+.aizo-arrow-back:before {
+    content: "\e903";
+}
+
+.aizo-arrow-next:before {
+    content: "\e904";
+}
+
+.aizo-back:before {
+    content: "\e905";
+}
+
+.aizo-bar-chart:before {
+    content: "\e906";
+}
+
+.aizo-chat:before {
+    content: "\e907";
+}
+
+.aizo-close:before {
+    content: "\e908";
+}
+
+.aizo-cloud:before {
+    content: "\e909";
+}
+
+.aizo-credit-cards:before {
+    content: "\e90a";
+}
+
+.aizo-delete-button:before {
+    content: "\e90b";
+}
+
+.aizo-desktop:before {
+    content: "\e90c";
+}
+
+.aizo-diamond:before {
+    content: "\e90d";
+}
+
+.aizo-down-arrow:before {
+    content: "\e90e";
+}
+
+.aizo-download:before {
+    content: "\e90f";
+}
+
+.aizo-edit:before {
+    content: "\e910";
+}
+
+.aizo-exit:before {
+    content: "\e911";
+}
+
+.aizo-eye:before {
+    content: "\e912";
+}
+
+.aizo-facebook:before {
+    content: "\e913";
+}
+
+.aizo-favorites:before {
+    content: "\e914";
+}
+
+.aizo-favorites-button:before {
+    content: "\e915";
+}
+
+.aizo-flag:before {
+    content: "\e916";
+}
+
+.aizo-folder:before {
+    content: "\e917";
+}
+
+.aizo-forms:before {
+    content: "\e918";
+}
+
+.aizo-gear:before {
+    content: "\e919";
+}
+
+.aizo-google-plus:before {
+    content: "\e91a";
+}
+
+.aizo-half-filled-rating-star:before {
+    content: "\e91b";
+}
+
+.aizo-happiness:before {
+    content: "\e91c";
+}
+
+.aizo-home:before {
+    content: "\e91d";
+}
+
+.aizo-honeymoon:before {
+    content: "\e91e";
+}
+
+.aizo-inbox:before {
+    content: "\e91f";
+}
+
+.aizo-info:before {
+    content: "\e920";
+}
+
+.aizo-like:before {
+    content: "\e921";
+}
+
+.aizo-linkedin:before {
+    content: "\e922";
+}
+
+.aizo-mail:before {
+    content: "\e923";
+}
+
+.aizo-mastercard:before {
+    content: "\e924";
+}
+
+.aizo-menu:before {
+    content: "\e925";
+}
+
+.aizo-menu-task:before {
+    content: "\e926";
+}
+
+.aizo-new-file:before {
+    content: "\e927";
+}
+
+.aizo-next:before {
+    content: "\e928";
+}
+
+.aizo-paperclip-document-outline:before {
+    content: "\e929";
+}
+
+.aizo-paper-plane:before {
+    content: "\e92a";
+}
+
+.aizo-paypal-logo-in-rectangular-black-card:before {
+    content: "\e92b";
+}
+
+.aizo-pdf:before {
+    content: "\e92c";
+}
+
+.aizo-picture:before {
+    content: "\e92d";
+}
+
+.aizo-pie-chart:before {
+    content: "\e92e";
+}
+
+.aizo-pinterest:before {
+    content: "\e92f";
+}
+
+.aizo-placeholder:before {
+    content: "\e930";
+}
+
+.aizo-ppt:before {
+    content: "\e931";
+}
+
+.aizo-price-tag:before {
+    content: "\e932";
+}
+
+.aizo-printer:before {
+    content: "\e933";
+}
+
+.aizo-refresh-button:before {
+    content: "\e934";
+}
+
+.aizo-right-arrow-angle:before {
+    content: "\e935";
+}
+
+.aizo-rss:before {
+    content: "\e936";
+}
+
+.aizo-search:before {
+    content: "\e937";
+}
+
+.aizo-settings:before {
+    content: "\e938";
+}
+
+.aizo-share:before {
+    content: "\e939";
+}
+
+.aizo-shopping-cart:before {
+    content: "\e93a";
+}
+
+.aizo-smartphone-call:before {
+    content: "\e93b";
+}
+
+.aizo-speakers:before {
+    content: "\e93c";
+}
+
+.aizo-table:before {
+    content: "\e93d";
+}
+
+.aizo-team:before {
+    content: "\e93e";
+}
+
+.aizo-thumb-up:before {
+    content: "\e93f";
+}
+
+.aizo-tick:before {
+    content: "\e940";
+}
+
+.aizo-twitter:before {
+    content: "\e941";
+}
+
+.aizo-unlocked:before {
+    content: "\e942";
+}
+
+.aizo-upload:before {
+    content: "\e943";
+}
+
+.aizo-user:before {
+    content: "\e944";
+}
+
+.aizo-warning-sign:before {
+    content: "\e945";
+}
+
+.aizo-xls:before {
+    content: "\e946";
+}
+
+.aizo-youtube:before {
+    content: "\e947";
+}
+
+.aizo-youtube-logotype:before {
+    content: "\e948";
+}
+
+.aizo-zip:before {
+    content: "\e949";
+}

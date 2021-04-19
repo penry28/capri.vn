@@ -1,0 +1,941 @@
+[31-Oct-2020 23:24:55 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: contentCooperation in /home/sucsongt/intro.aizo.vn/admin/modules/aboutUs/controllers/indexController.php on line 74
+[31-Oct-2020 23:24:55 Asia/Ho_Chi_Minh] PHP Stack trace:
+[31-Oct-2020 23:24:55 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/intro.aizo.vn/admin/index.php:0
+[31-Oct-2020 23:24:55 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/intro.aizo.vn/admin/index.php:66
+[31-Oct-2020 23:24:55 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/intro.aizo.vn/admin/core/appload.php:42
+[31-Oct-2020 23:24:55 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/intro.aizo.vn/admin/core/router.php:12
+[31-Oct-2020 23:24:55 Asia/Ho_Chi_Minh] PHP   5. indexAction() /home/sucsongt/intro.aizo.vn/admin/core/base.php:77
+[31-Oct-2020 23:25:45 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: contentCooperation in /home/sucsongt/intro.aizo.vn/admin/modules/aboutUs/controllers/indexController.php on line 74
+[31-Oct-2020 23:25:45 Asia/Ho_Chi_Minh] PHP Stack trace:
+[31-Oct-2020 23:25:45 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/intro.aizo.vn/admin/index.php:0
+[31-Oct-2020 23:25:45 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/intro.aizo.vn/admin/index.php:66
+[31-Oct-2020 23:25:45 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/intro.aizo.vn/admin/core/appload.php:42
+[31-Oct-2020 23:25:45 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/intro.aizo.vn/admin/core/router.php:12
+[31-Oct-2020 23:25:45 Asia/Ho_Chi_Minh] PHP   5. indexAction() /home/sucsongt/intro.aizo.vn/admin/core/base.php:77
+[31-Oct-2020 23:42:28 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: contentCooperation in /home/sucsongt/intro.aizo.vn/admin/modules/aboutUs/controllers/indexController.php on line 74
+[31-Oct-2020 23:42:28 Asia/Ho_Chi_Minh] PHP Stack trace:
+[31-Oct-2020 23:42:28 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/intro.aizo.vn/admin/index.php:0
+[31-Oct-2020 23:42:28 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/intro.aizo.vn/admin/index.php:66
+[31-Oct-2020 23:42:28 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/intro.aizo.vn/admin/core/appload.php:42
+[31-Oct-2020 23:42:28 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/intro.aizo.vn/admin/core/router.php:12
+[31-Oct-2020 23:42:28 Asia/Ho_Chi_Minh] PHP   5. indexAction() /home/sucsongt/intro.aizo.vn/admin/core/base.php:77
+[01-Nov-2020 11:23:02 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function showroomAction() in /home/sucsongt/intro.aizo.vn/admin/core/base.php on line 77
+[01-Nov-2020 11:23:02 Asia/Ho_Chi_Minh] PHP Stack trace:
+[01-Nov-2020 11:23:02 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/intro.aizo.vn/admin/index.php:0
+[01-Nov-2020 11:23:02 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/intro.aizo.vn/admin/index.php:66
+[01-Nov-2020 11:23:02 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/intro.aizo.vn/admin/core/appload.php:42
+[01-Nov-2020 11:23:02 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/intro.aizo.vn/admin/core/router.php:12
+[01-Nov-2020 11:23:09 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function showroomAction() in /home/sucsongt/intro.aizo.vn/admin/core/base.php on line 77
+[01-Nov-2020 11:23:09 Asia/Ho_Chi_Minh] PHP Stack trace:
+[01-Nov-2020 11:23:09 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/intro.aizo.vn/admin/index.php:0
+[01-Nov-2020 11:23:09 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/intro.aizo.vn/admin/index.php:66
+[01-Nov-2020 11:23:09 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/intro.aizo.vn/admin/core/appload.php:42
+[01-Nov-2020 11:23:09 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/intro.aizo.vn/admin/core/router.php:12
+[01-Nov-2020 11:23:10 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function showroomAction() in /home/sucsongt/intro.aizo.vn/admin/core/base.php on line 77
+[01-Nov-2020 11:23:10 Asia/Ho_Chi_Minh] PHP Stack trace:
+[01-Nov-2020 11:23:10 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/intro.aizo.vn/admin/index.php:0
+[01-Nov-2020 11:23:10 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/intro.aizo.vn/admin/index.php:66
+[01-Nov-2020 11:23:10 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/intro.aizo.vn/admin/core/appload.php:42
+[01-Nov-2020 11:23:10 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/intro.aizo.vn/admin/core/router.php:12
+[01-Nov-2020 11:23:10 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function showroomAction() in /home/sucsongt/intro.aizo.vn/admin/core/base.php on line 77
+[01-Nov-2020 11:23:10 Asia/Ho_Chi_Minh] PHP Stack trace:
+[01-Nov-2020 11:23:10 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/intro.aizo.vn/admin/index.php:0
+[01-Nov-2020 11:23:10 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/intro.aizo.vn/admin/index.php:66
+[01-Nov-2020 11:23:10 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/intro.aizo.vn/admin/core/appload.php:42
+[01-Nov-2020 11:23:10 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/intro.aizo.vn/admin/core/router.php:12
+[01-Nov-2020 11:23:10 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function showroomAction() in /home/sucsongt/intro.aizo.vn/admin/core/base.php on line 77
+[01-Nov-2020 11:23:10 Asia/Ho_Chi_Minh] PHP Stack trace:
+[01-Nov-2020 11:23:10 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/intro.aizo.vn/admin/index.php:0
+[01-Nov-2020 11:23:10 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/intro.aizo.vn/admin/index.php:66
+[01-Nov-2020 11:23:10 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/intro.aizo.vn/admin/core/appload.php:42
+[01-Nov-2020 11:23:10 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/intro.aizo.vn/admin/core/router.php:12
+[01-Nov-2020 11:23:16 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function showroomAction() in /home/sucsongt/intro.aizo.vn/admin/core/base.php on line 77
+[01-Nov-2020 11:23:16 Asia/Ho_Chi_Minh] PHP Stack trace:
+[01-Nov-2020 11:23:16 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/intro.aizo.vn/admin/index.php:0
+[01-Nov-2020 11:23:16 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/intro.aizo.vn/admin/index.php:66
+[01-Nov-2020 11:23:16 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/intro.aizo.vn/admin/core/appload.php:42
+[01-Nov-2020 11:23:16 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/intro.aizo.vn/admin/core/router.php:12
+[01-Nov-2020 11:24:27 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function showroomAction() in /home/sucsongt/intro.aizo.vn/admin/core/base.php on line 77
+[01-Nov-2020 11:24:27 Asia/Ho_Chi_Minh] PHP Stack trace:
+[01-Nov-2020 11:24:27 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/intro.aizo.vn/admin/index.php:0
+[01-Nov-2020 11:24:27 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/intro.aizo.vn/admin/index.php:66
+[01-Nov-2020 11:24:27 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/intro.aizo.vn/admin/core/appload.php:42
+[01-Nov-2020 11:24:27 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/intro.aizo.vn/admin/core/router.php:12
+[01-Nov-2020 11:24:29 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function showroomAction() in /home/sucsongt/intro.aizo.vn/admin/core/base.php on line 77
+[01-Nov-2020 11:24:29 Asia/Ho_Chi_Minh] PHP Stack trace:
+[01-Nov-2020 11:24:29 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/intro.aizo.vn/admin/index.php:0
+[01-Nov-2020 11:24:29 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/intro.aizo.vn/admin/index.php:66
+[01-Nov-2020 11:24:29 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/intro.aizo.vn/admin/core/appload.php:42
+[01-Nov-2020 11:24:29 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/intro.aizo.vn/admin/core/router.php:12
+[01-Nov-2020 11:24:33 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function showroomAction() in /home/sucsongt/intro.aizo.vn/admin/core/base.php on line 77
+[01-Nov-2020 11:24:33 Asia/Ho_Chi_Minh] PHP Stack trace:
+[01-Nov-2020 11:24:33 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/intro.aizo.vn/admin/index.php:0
+[01-Nov-2020 11:24:33 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/intro.aizo.vn/admin/index.php:66
+[01-Nov-2020 11:24:33 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/intro.aizo.vn/admin/core/appload.php:42
+[01-Nov-2020 11:24:33 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/intro.aizo.vn/admin/core/router.php:12
+[01-Nov-2020 11:24:59 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function showroomAction() in /home/sucsongt/intro.aizo.vn/admin/core/base.php on line 77
+[01-Nov-2020 11:24:59 Asia/Ho_Chi_Minh] PHP Stack trace:
+[01-Nov-2020 11:24:59 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/intro.aizo.vn/admin/index.php:0
+[01-Nov-2020 11:24:59 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/intro.aizo.vn/admin/index.php:66
+[01-Nov-2020 11:24:59 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/intro.aizo.vn/admin/core/appload.php:42
+[01-Nov-2020 11:24:59 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/intro.aizo.vn/admin/core/router.php:12
+[01-Nov-2020 11:25:29 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function showroomAction() in /home/sucsongt/intro.aizo.vn/admin/core/base.php on line 77
+[01-Nov-2020 11:25:29 Asia/Ho_Chi_Minh] PHP Stack trace:
+[01-Nov-2020 11:25:29 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/intro.aizo.vn/admin/index.php:0
+[01-Nov-2020 11:25:29 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/intro.aizo.vn/admin/index.php:66
+[01-Nov-2020 11:25:29 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/intro.aizo.vn/admin/core/appload.php:42
+[01-Nov-2020 11:25:29 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/intro.aizo.vn/admin/core/router.php:12
+[03-Nov-2020 08:57:29 Asia/Ho_Chi_Minh] PHP Warning:  move_uploaded_file(public/uploads/system/logo-capri.png): failed to open stream: No such file or directory in /home/sucsongt/intro.aizo.vn/admin/modules/system/controllers/indexController.php on line 101
+[03-Nov-2020 08:57:29 Asia/Ho_Chi_Minh] PHP Stack trace:
+[03-Nov-2020 08:57:29 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/intro.aizo.vn/admin/index.php:0
+[03-Nov-2020 08:57:29 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/intro.aizo.vn/admin/index.php:66
+[03-Nov-2020 08:57:29 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/intro.aizo.vn/admin/core/appload.php:42
+[03-Nov-2020 08:57:29 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/intro.aizo.vn/admin/core/router.php:12
+[03-Nov-2020 08:57:29 Asia/Ho_Chi_Minh] PHP   5. uploadImageAction() /home/sucsongt/intro.aizo.vn/admin/core/base.php:77
+[03-Nov-2020 08:57:29 Asia/Ho_Chi_Minh] PHP   6. move_uploaded_file() /home/sucsongt/intro.aizo.vn/admin/modules/system/controllers/indexController.php:101
+[03-Nov-2020 08:57:29 Asia/Ho_Chi_Minh] PHP Warning:  move_uploaded_file(): Unable to move '/home/sucsongt/tmp/phpyptveR' to 'public/uploads/system/logo-capri.png' in /home/sucsongt/intro.aizo.vn/admin/modules/system/controllers/indexController.php on line 101
+[03-Nov-2020 08:57:29 Asia/Ho_Chi_Minh] PHP Stack trace:
+[03-Nov-2020 08:57:29 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/intro.aizo.vn/admin/index.php:0
+[03-Nov-2020 08:57:29 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/intro.aizo.vn/admin/index.php:66
+[03-Nov-2020 08:57:29 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/intro.aizo.vn/admin/core/appload.php:42
+[03-Nov-2020 08:57:29 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/intro.aizo.vn/admin/core/router.php:12
+[03-Nov-2020 08:57:29 Asia/Ho_Chi_Minh] PHP   5. uploadImageAction() /home/sucsongt/intro.aizo.vn/admin/core/base.php:77
+[03-Nov-2020 08:57:29 Asia/Ho_Chi_Minh] PHP   6. move_uploaded_file() /home/sucsongt/intro.aizo.vn/admin/modules/system/controllers/indexController.php:101
+[03-Nov-2020 08:57:32 Asia/Ho_Chi_Minh] PHP Warning:  move_uploaded_file(public/uploads/system/thuong-hieu-bep-capri-mang-tam-quoc-te.png): failed to open stream: No such file or directory in /home/sucsongt/intro.aizo.vn/admin/modules/system/controllers/indexController.php on line 101
+[03-Nov-2020 08:57:32 Asia/Ho_Chi_Minh] PHP Stack trace:
+[03-Nov-2020 08:57:32 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/intro.aizo.vn/admin/index.php:0
+[03-Nov-2020 08:57:32 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/intro.aizo.vn/admin/index.php:66
+[03-Nov-2020 08:57:32 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/intro.aizo.vn/admin/core/appload.php:42
+[03-Nov-2020 08:57:32 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/intro.aizo.vn/admin/core/router.php:12
+[03-Nov-2020 08:57:32 Asia/Ho_Chi_Minh] PHP   5. uploadImageAction() /home/sucsongt/intro.aizo.vn/admin/core/base.php:77
+[03-Nov-2020 08:57:32 Asia/Ho_Chi_Minh] PHP   6. move_uploaded_file() /home/sucsongt/intro.aizo.vn/admin/modules/system/controllers/indexController.php:101
+[03-Nov-2020 08:57:32 Asia/Ho_Chi_Minh] PHP Warning:  move_uploaded_file(): Unable to move '/home/sucsongt/tmp/phpX3db6W' to 'public/uploads/system/thuong-hieu-bep-capri-mang-tam-quoc-te.png' in /home/sucsongt/intro.aizo.vn/admin/modules/system/controllers/indexController.php on line 101
+[03-Nov-2020 08:57:32 Asia/Ho_Chi_Minh] PHP Stack trace:
+[03-Nov-2020 08:57:32 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/intro.aizo.vn/admin/index.php:0
+[03-Nov-2020 08:57:32 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/intro.aizo.vn/admin/index.php:66
+[03-Nov-2020 08:57:32 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/intro.aizo.vn/admin/core/appload.php:42
+[03-Nov-2020 08:57:32 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/intro.aizo.vn/admin/core/router.php:12
+[03-Nov-2020 08:57:32 Asia/Ho_Chi_Minh] PHP   5. uploadImageAction() /home/sucsongt/intro.aizo.vn/admin/core/base.php:77
+[03-Nov-2020 08:57:32 Asia/Ho_Chi_Minh] PHP   6. move_uploaded_file() /home/sucsongt/intro.aizo.vn/admin/modules/system/controllers/indexController.php:101
+[03-Nov-2020 08:57:46 Asia/Ho_Chi_Minh] PHP Warning:  move_uploaded_file(public/uploads/system/logo-capri.png): failed to open stream: No such file or directory in /home/sucsongt/intro.aizo.vn/admin/modules/system/controllers/indexController.php on line 101
+[03-Nov-2020 08:57:46 Asia/Ho_Chi_Minh] PHP Stack trace:
+[03-Nov-2020 08:57:46 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/intro.aizo.vn/admin/index.php:0
+[03-Nov-2020 08:57:46 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/intro.aizo.vn/admin/index.php:66
+[03-Nov-2020 08:57:46 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/intro.aizo.vn/admin/core/appload.php:42
+[03-Nov-2020 08:57:46 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/intro.aizo.vn/admin/core/router.php:12
+[03-Nov-2020 08:57:46 Asia/Ho_Chi_Minh] PHP   5. uploadImageAction() /home/sucsongt/intro.aizo.vn/admin/core/base.php:77
+[03-Nov-2020 08:57:46 Asia/Ho_Chi_Minh] PHP   6. move_uploaded_file() /home/sucsongt/intro.aizo.vn/admin/modules/system/controllers/indexController.php:101
+[03-Nov-2020 08:57:46 Asia/Ho_Chi_Minh] PHP Warning:  move_uploaded_file(): Unable to move '/home/sucsongt/tmp/phpaPJJtt' to 'public/uploads/system/logo-capri.png' in /home/sucsongt/intro.aizo.vn/admin/modules/system/controllers/indexController.php on line 101
+[03-Nov-2020 08:57:46 Asia/Ho_Chi_Minh] PHP Stack trace:
+[03-Nov-2020 08:57:46 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/intro.aizo.vn/admin/index.php:0
+[03-Nov-2020 08:57:46 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/intro.aizo.vn/admin/index.php:66
+[03-Nov-2020 08:57:46 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/intro.aizo.vn/admin/core/appload.php:42
+[03-Nov-2020 08:57:46 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/intro.aizo.vn/admin/core/router.php:12
+[03-Nov-2020 08:57:46 Asia/Ho_Chi_Minh] PHP   5. uploadImageAction() /home/sucsongt/intro.aizo.vn/admin/core/base.php:77
+[03-Nov-2020 08:57:46 Asia/Ho_Chi_Minh] PHP   6. move_uploaded_file() /home/sucsongt/intro.aizo.vn/admin/modules/system/controllers/indexController.php:101
+[03-Nov-2020 08:57:50 Asia/Ho_Chi_Minh] PHP Warning:  move_uploaded_file(public/uploads/system/thuong-hieu-bep-capri-mang-tam-quoc-te.png): failed to open stream: No such file or directory in /home/sucsongt/intro.aizo.vn/admin/modules/system/controllers/indexController.php on line 101
+[03-Nov-2020 08:57:50 Asia/Ho_Chi_Minh] PHP Stack trace:
+[03-Nov-2020 08:57:50 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/intro.aizo.vn/admin/index.php:0
+[03-Nov-2020 08:57:50 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/intro.aizo.vn/admin/index.php:66
+[03-Nov-2020 08:57:50 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/intro.aizo.vn/admin/core/appload.php:42
+[03-Nov-2020 08:57:50 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/intro.aizo.vn/admin/core/router.php:12
+[03-Nov-2020 08:57:50 Asia/Ho_Chi_Minh] PHP   5. uploadImageAction() /home/sucsongt/intro.aizo.vn/admin/core/base.php:77
+[03-Nov-2020 08:57:50 Asia/Ho_Chi_Minh] PHP   6. move_uploaded_file() /home/sucsongt/intro.aizo.vn/admin/modules/system/controllers/indexController.php:101
+[03-Nov-2020 08:57:50 Asia/Ho_Chi_Minh] PHP Warning:  move_uploaded_file(): Unable to move '/home/sucsongt/tmp/php2KQhqB' to 'public/uploads/system/thuong-hieu-bep-capri-mang-tam-quoc-te.png' in /home/sucsongt/intro.aizo.vn/admin/modules/system/controllers/indexController.php on line 101
+[03-Nov-2020 08:57:50 Asia/Ho_Chi_Minh] PHP Stack trace:
+[03-Nov-2020 08:57:50 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/intro.aizo.vn/admin/index.php:0
+[03-Nov-2020 08:57:50 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/intro.aizo.vn/admin/index.php:66
+[03-Nov-2020 08:57:50 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/intro.aizo.vn/admin/core/appload.php:42
+[03-Nov-2020 08:57:50 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/intro.aizo.vn/admin/core/router.php:12
+[03-Nov-2020 08:57:50 Asia/Ho_Chi_Minh] PHP   5. uploadImageAction() /home/sucsongt/intro.aizo.vn/admin/core/base.php:77
+[03-Nov-2020 08:57:50 Asia/Ho_Chi_Minh] PHP   6. move_uploaded_file() /home/sucsongt/intro.aizo.vn/admin/modules/system/controllers/indexController.php:101
+[03-Nov-2020 08:59:24 Asia/Ho_Chi_Minh] PHP Warning:  move_uploaded_file(public/uploads/system/logo-capri.png): failed to open stream: No such file or directory in /home/sucsongt/intro.aizo.vn/admin/modules/system/controllers/indexController.php on line 101
+[03-Nov-2020 08:59:24 Asia/Ho_Chi_Minh] PHP Stack trace:
+[03-Nov-2020 08:59:24 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/intro.aizo.vn/admin/index.php:0
+[03-Nov-2020 08:59:24 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/intro.aizo.vn/admin/index.php:66
+[03-Nov-2020 08:59:24 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/intro.aizo.vn/admin/core/appload.php:42
+[03-Nov-2020 08:59:24 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/intro.aizo.vn/admin/core/router.php:12
+[03-Nov-2020 08:59:24 Asia/Ho_Chi_Minh] PHP   5. uploadImageAction() /home/sucsongt/intro.aizo.vn/admin/core/base.php:77
+[03-Nov-2020 08:59:24 Asia/Ho_Chi_Minh] PHP   6. move_uploaded_file() /home/sucsongt/intro.aizo.vn/admin/modules/system/controllers/indexController.php:101
+[03-Nov-2020 08:59:24 Asia/Ho_Chi_Minh] PHP Warning:  move_uploaded_file(): Unable to move '/home/sucsongt/tmp/phps1WFU9' to 'public/uploads/system/logo-capri.png' in /home/sucsongt/intro.aizo.vn/admin/modules/system/controllers/indexController.php on line 101
+[03-Nov-2020 08:59:24 Asia/Ho_Chi_Minh] PHP Stack trace:
+[03-Nov-2020 08:59:24 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/intro.aizo.vn/admin/index.php:0
+[03-Nov-2020 08:59:24 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/intro.aizo.vn/admin/index.php:66
+[03-Nov-2020 08:59:24 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/intro.aizo.vn/admin/core/appload.php:42
+[03-Nov-2020 08:59:24 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/intro.aizo.vn/admin/core/router.php:12
+[03-Nov-2020 08:59:24 Asia/Ho_Chi_Minh] PHP   5. uploadImageAction() /home/sucsongt/intro.aizo.vn/admin/core/base.php:77
+[03-Nov-2020 08:59:24 Asia/Ho_Chi_Minh] PHP   6. move_uploaded_file() /home/sucsongt/intro.aizo.vn/admin/modules/system/controllers/indexController.php:101
+[04-Nov-2020 10:36:04 Asia/Ho_Chi_Minh] PHP Warning:  move_uploaded_file(public/uploads/ads/Accessories-Banner-800x521.jpg): failed to open stream: No such file or directory in /home/sucsongt/public_html/admin/modules/ads/controllers/indexController.php on line 121
+[04-Nov-2020 10:36:04 Asia/Ho_Chi_Minh] PHP Stack trace:
+[04-Nov-2020 10:36:04 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/public_html/admin/index.php:0
+[04-Nov-2020 10:36:04 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/public_html/admin/index.php:66
+[04-Nov-2020 10:36:04 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/public_html/admin/core/appload.php:42
+[04-Nov-2020 10:36:04 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/public_html/admin/core/router.php:12
+[04-Nov-2020 10:36:04 Asia/Ho_Chi_Minh] PHP   5. uploadImgAdsAction() /home/sucsongt/public_html/admin/core/base.php:77
+[04-Nov-2020 10:36:04 Asia/Ho_Chi_Minh] PHP   6. move_uploaded_file() /home/sucsongt/public_html/admin/modules/ads/controllers/indexController.php:121
+[04-Nov-2020 10:36:04 Asia/Ho_Chi_Minh] PHP Warning:  move_uploaded_file(): Unable to move '/home/sucsongt/tmp/phpVkcLYQ' to 'public/uploads/ads/Accessories-Banner-800x521.jpg' in /home/sucsongt/public_html/admin/modules/ads/controllers/indexController.php on line 121
+[04-Nov-2020 10:36:04 Asia/Ho_Chi_Minh] PHP Stack trace:
+[04-Nov-2020 10:36:04 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/public_html/admin/index.php:0
+[04-Nov-2020 10:36:04 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/public_html/admin/index.php:66
+[04-Nov-2020 10:36:04 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/public_html/admin/core/appload.php:42
+[04-Nov-2020 10:36:04 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/public_html/admin/core/router.php:12
+[04-Nov-2020 10:36:04 Asia/Ho_Chi_Minh] PHP   5. uploadImgAdsAction() /home/sucsongt/public_html/admin/core/base.php:77
+[04-Nov-2020 10:36:04 Asia/Ho_Chi_Minh] PHP   6. move_uploaded_file() /home/sucsongt/public_html/admin/modules/ads/controllers/indexController.php:121
+[04-Nov-2020 10:37:19 Asia/Ho_Chi_Minh] PHP Warning:  move_uploaded_file(public/uploads/ads/Accessories-Banner-800x521.jpg): failed to open stream: No such file or directory in /home/sucsongt/public_html/admin/modules/ads/controllers/indexController.php on line 121
+[04-Nov-2020 10:37:19 Asia/Ho_Chi_Minh] PHP Stack trace:
+[04-Nov-2020 10:37:19 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/public_html/admin/index.php:0
+[04-Nov-2020 10:37:19 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/public_html/admin/index.php:66
+[04-Nov-2020 10:37:19 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/public_html/admin/core/appload.php:42
+[04-Nov-2020 10:37:19 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/public_html/admin/core/router.php:12
+[04-Nov-2020 10:37:19 Asia/Ho_Chi_Minh] PHP   5. uploadImgAdsAction() /home/sucsongt/public_html/admin/core/base.php:77
+[04-Nov-2020 10:37:19 Asia/Ho_Chi_Minh] PHP   6. move_uploaded_file() /home/sucsongt/public_html/admin/modules/ads/controllers/indexController.php:121
+[04-Nov-2020 10:37:19 Asia/Ho_Chi_Minh] PHP Warning:  move_uploaded_file(): Unable to move '/home/sucsongt/tmp/phpiQ1J4q' to 'public/uploads/ads/Accessories-Banner-800x521.jpg' in /home/sucsongt/public_html/admin/modules/ads/controllers/indexController.php on line 121
+[04-Nov-2020 10:37:19 Asia/Ho_Chi_Minh] PHP Stack trace:
+[04-Nov-2020 10:37:19 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/public_html/admin/index.php:0
+[04-Nov-2020 10:37:19 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/public_html/admin/index.php:66
+[04-Nov-2020 10:37:19 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/public_html/admin/core/appload.php:42
+[04-Nov-2020 10:37:19 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/public_html/admin/core/router.php:12
+[04-Nov-2020 10:37:19 Asia/Ho_Chi_Minh] PHP   5. uploadImgAdsAction() /home/sucsongt/public_html/admin/core/base.php:77
+[04-Nov-2020 10:37:19 Asia/Ho_Chi_Minh] PHP   6. move_uploaded_file() /home/sucsongt/public_html/admin/modules/ads/controllers/indexController.php:121
+[04-Nov-2020 10:37:36 Asia/Ho_Chi_Minh] PHP Warning:  move_uploaded_file(public/uploads/ads/Accessories-Banner-800x521.jpg): failed to open stream: No such file or directory in /home/sucsongt/public_html/admin/modules/ads/controllers/indexController.php on line 121
+[04-Nov-2020 10:37:36 Asia/Ho_Chi_Minh] PHP Stack trace:
+[04-Nov-2020 10:37:36 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/public_html/admin/index.php:0
+[04-Nov-2020 10:37:36 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/public_html/admin/index.php:66
+[04-Nov-2020 10:37:36 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/public_html/admin/core/appload.php:42
+[04-Nov-2020 10:37:36 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/public_html/admin/core/router.php:12
+[04-Nov-2020 10:37:36 Asia/Ho_Chi_Minh] PHP   5. uploadImgAdsAction() /home/sucsongt/public_html/admin/core/base.php:77
+[04-Nov-2020 10:37:36 Asia/Ho_Chi_Minh] PHP   6. move_uploaded_file() /home/sucsongt/public_html/admin/modules/ads/controllers/indexController.php:121
+[04-Nov-2020 10:37:36 Asia/Ho_Chi_Minh] PHP Warning:  move_uploaded_file(): Unable to move '/home/sucsongt/tmp/php90MOt2' to 'public/uploads/ads/Accessories-Banner-800x521.jpg' in /home/sucsongt/public_html/admin/modules/ads/controllers/indexController.php on line 121
+[04-Nov-2020 10:37:36 Asia/Ho_Chi_Minh] PHP Stack trace:
+[04-Nov-2020 10:37:36 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/public_html/admin/index.php:0
+[04-Nov-2020 10:37:36 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/public_html/admin/index.php:66
+[04-Nov-2020 10:37:36 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/public_html/admin/core/appload.php:42
+[04-Nov-2020 10:37:36 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/public_html/admin/core/router.php:12
+[04-Nov-2020 10:37:36 Asia/Ho_Chi_Minh] PHP   5. uploadImgAdsAction() /home/sucsongt/public_html/admin/core/base.php:77
+[04-Nov-2020 10:37:36 Asia/Ho_Chi_Minh] PHP   6. move_uploaded_file() /home/sucsongt/public_html/admin/modules/ads/controllers/indexController.php:121
+[04-Nov-2020 10:37:46 Asia/Ho_Chi_Minh] PHP Warning:  move_uploaded_file(public/uploads/ads/Accessories-Banner-800x521.jpg): failed to open stream: No such file or directory in /home/sucsongt/public_html/admin/modules/ads/controllers/indexController.php on line 121
+[04-Nov-2020 10:37:46 Asia/Ho_Chi_Minh] PHP Stack trace:
+[04-Nov-2020 10:37:46 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/public_html/admin/index.php:0
+[04-Nov-2020 10:37:46 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/public_html/admin/index.php:66
+[04-Nov-2020 10:37:46 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/public_html/admin/core/appload.php:42
+[04-Nov-2020 10:37:46 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/public_html/admin/core/router.php:12
+[04-Nov-2020 10:37:46 Asia/Ho_Chi_Minh] PHP   5. uploadImgAdsAction() /home/sucsongt/public_html/admin/core/base.php:77
+[04-Nov-2020 10:37:46 Asia/Ho_Chi_Minh] PHP   6. move_uploaded_file() /home/sucsongt/public_html/admin/modules/ads/controllers/indexController.php:121
+[04-Nov-2020 10:37:46 Asia/Ho_Chi_Minh] PHP Warning:  move_uploaded_file(): Unable to move '/home/sucsongt/tmp/phpEORfrq' to 'public/uploads/ads/Accessories-Banner-800x521.jpg' in /home/sucsongt/public_html/admin/modules/ads/controllers/indexController.php on line 121
+[04-Nov-2020 10:37:46 Asia/Ho_Chi_Minh] PHP Stack trace:
+[04-Nov-2020 10:37:46 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/public_html/admin/index.php:0
+[04-Nov-2020 10:37:46 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/public_html/admin/index.php:66
+[04-Nov-2020 10:37:46 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/public_html/admin/core/appload.php:42
+[04-Nov-2020 10:37:46 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/public_html/admin/core/router.php:12
+[04-Nov-2020 10:37:46 Asia/Ho_Chi_Minh] PHP   5. uploadImgAdsAction() /home/sucsongt/public_html/admin/core/base.php:77
+[04-Nov-2020 10:37:46 Asia/Ho_Chi_Minh] PHP   6. move_uploaded_file() /home/sucsongt/public_html/admin/modules/ads/controllers/indexController.php:121
+[05-Nov-2020 10:10:27 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: configStatus in /home/sucsongt/public_html/admin/modules/prod/controllers/indexController.php on line 698
+[05-Nov-2020 10:10:27 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 10:10:27 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/public_html/admin/index.php:0
+[05-Nov-2020 10:10:27 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/public_html/admin/index.php:66
+[05-Nov-2020 10:10:27 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/public_html/admin/core/appload.php:42
+[05-Nov-2020 10:10:27 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/public_html/admin/core/router.php:12
+[05-Nov-2020 10:10:27 Asia/Ho_Chi_Minh] PHP   5. getTotalPagePaginationAction() /home/sucsongt/public_html/admin/core/base.php:77
+[05-Nov-2020 10:10:27 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/sucsongt/public_html/admin/modules/prod/controllers/indexController.php on line 701
+[05-Nov-2020 10:10:27 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 10:10:27 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/public_html/admin/index.php:0
+[05-Nov-2020 10:10:27 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/public_html/admin/index.php:66
+[05-Nov-2020 10:10:27 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/public_html/admin/core/appload.php:42
+[05-Nov-2020 10:10:27 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/public_html/admin/core/router.php:12
+[05-Nov-2020 10:10:27 Asia/Ho_Chi_Minh] PHP   5. getTotalPagePaginationAction() /home/sucsongt/public_html/admin/core/base.php:77
+[05-Nov-2020 10:10:35 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: configStatus in /home/sucsongt/public_html/admin/modules/prod/controllers/indexController.php on line 698
+[05-Nov-2020 10:10:35 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 10:10:35 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/public_html/admin/index.php:0
+[05-Nov-2020 10:10:35 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/public_html/admin/index.php:66
+[05-Nov-2020 10:10:35 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/public_html/admin/core/appload.php:42
+[05-Nov-2020 10:10:35 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/public_html/admin/core/router.php:12
+[05-Nov-2020 10:10:35 Asia/Ho_Chi_Minh] PHP   5. getTotalPagePaginationAction() /home/sucsongt/public_html/admin/core/base.php:77
+[05-Nov-2020 10:10:35 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/sucsongt/public_html/admin/modules/prod/controllers/indexController.php on line 701
+[05-Nov-2020 10:10:35 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 10:10:35 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/public_html/admin/index.php:0
+[05-Nov-2020 10:10:35 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/public_html/admin/index.php:66
+[05-Nov-2020 10:10:35 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/public_html/admin/core/appload.php:42
+[05-Nov-2020 10:10:35 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/public_html/admin/core/router.php:12
+[05-Nov-2020 10:10:35 Asia/Ho_Chi_Minh] PHP   5. getTotalPagePaginationAction() /home/sucsongt/public_html/admin/core/base.php:77
+[05-Nov-2020 10:10:51 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: configStatus in /home/sucsongt/public_html/admin/modules/prod/controllers/indexController.php on line 698
+[05-Nov-2020 10:10:51 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 10:10:51 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/public_html/admin/index.php:0
+[05-Nov-2020 10:10:51 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/public_html/admin/index.php:66
+[05-Nov-2020 10:10:51 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/public_html/admin/core/appload.php:42
+[05-Nov-2020 10:10:51 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/public_html/admin/core/router.php:12
+[05-Nov-2020 10:10:51 Asia/Ho_Chi_Minh] PHP   5. getTotalPagePaginationAction() /home/sucsongt/public_html/admin/core/base.php:77
+[05-Nov-2020 10:10:51 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/sucsongt/public_html/admin/modules/prod/controllers/indexController.php on line 701
+[05-Nov-2020 10:10:51 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 10:10:51 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/public_html/admin/index.php:0
+[05-Nov-2020 10:10:51 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/public_html/admin/index.php:66
+[05-Nov-2020 10:10:51 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/public_html/admin/core/appload.php:42
+[05-Nov-2020 10:10:51 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/public_html/admin/core/router.php:12
+[05-Nov-2020 10:10:51 Asia/Ho_Chi_Minh] PHP   5. getTotalPagePaginationAction() /home/sucsongt/public_html/admin/core/base.php:77
+[05-Nov-2020 10:22:29 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_cate in /home/sucsongt/public_html/admin/modules/cate/views/listHighlightView.php on line 288
+[05-Nov-2020 10:22:29 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 10:22:29 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/public_html/admin/index.php:0
+[05-Nov-2020 10:22:29 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/public_html/admin/index.php:66
+[05-Nov-2020 10:22:29 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/public_html/admin/core/appload.php:42
+[05-Nov-2020 10:22:29 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/public_html/admin/core/router.php:12
+[05-Nov-2020 10:22:29 Asia/Ho_Chi_Minh] PHP   5. listCateHighlightAction() /home/sucsongt/public_html/admin/core/base.php:77
+[05-Nov-2020 10:22:29 Asia/Ho_Chi_Minh] PHP   6. load_view() /home/sucsongt/public_html/admin/modules/cate/controllers/indexController.php:133
+[05-Nov-2020 10:22:29 Asia/Ho_Chi_Minh] PHP   7. require() /home/sucsongt/public_html/admin/core/base.php:94
+[05-Nov-2020 10:22:29 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_cate in /home/sucsongt/public_html/admin/modules/cate/views/listHighlightView.php on line 290
+[05-Nov-2020 10:22:29 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 10:22:29 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/public_html/admin/index.php:0
+[05-Nov-2020 10:22:29 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/public_html/admin/index.php:66
+[05-Nov-2020 10:22:29 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/public_html/admin/core/appload.php:42
+[05-Nov-2020 10:22:29 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/public_html/admin/core/router.php:12
+[05-Nov-2020 10:22:29 Asia/Ho_Chi_Minh] PHP   5. listCateHighlightAction() /home/sucsongt/public_html/admin/core/base.php:77
+[05-Nov-2020 10:22:29 Asia/Ho_Chi_Minh] PHP   6. load_view() /home/sucsongt/public_html/admin/modules/cate/controllers/indexController.php:133
+[05-Nov-2020 10:22:29 Asia/Ho_Chi_Minh] PHP   7. require() /home/sucsongt/public_html/admin/core/base.php:94
+[05-Nov-2020 10:22:34 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_cate in /home/sucsongt/public_html/admin/modules/cate/views/listHighlightView.php on line 288
+[05-Nov-2020 10:22:34 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 10:22:34 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/public_html/admin/index.php:0
+[05-Nov-2020 10:22:34 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/public_html/admin/index.php:66
+[05-Nov-2020 10:22:34 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/public_html/admin/core/appload.php:42
+[05-Nov-2020 10:22:34 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/public_html/admin/core/router.php:12
+[05-Nov-2020 10:22:34 Asia/Ho_Chi_Minh] PHP   5. listCateHighlightAction() /home/sucsongt/public_html/admin/core/base.php:77
+[05-Nov-2020 10:22:34 Asia/Ho_Chi_Minh] PHP   6. load_view() /home/sucsongt/public_html/admin/modules/cate/controllers/indexController.php:133
+[05-Nov-2020 10:22:34 Asia/Ho_Chi_Minh] PHP   7. require() /home/sucsongt/public_html/admin/core/base.php:94
+[05-Nov-2020 10:22:34 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_cate in /home/sucsongt/public_html/admin/modules/cate/views/listHighlightView.php on line 290
+[05-Nov-2020 10:22:34 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 10:22:34 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/public_html/admin/index.php:0
+[05-Nov-2020 10:22:34 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/public_html/admin/index.php:66
+[05-Nov-2020 10:22:34 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/public_html/admin/core/appload.php:42
+[05-Nov-2020 10:22:34 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/public_html/admin/core/router.php:12
+[05-Nov-2020 10:22:34 Asia/Ho_Chi_Minh] PHP   5. listCateHighlightAction() /home/sucsongt/public_html/admin/core/base.php:77
+[05-Nov-2020 10:22:34 Asia/Ho_Chi_Minh] PHP   6. load_view() /home/sucsongt/public_html/admin/modules/cate/controllers/indexController.php:133
+[05-Nov-2020 10:22:34 Asia/Ho_Chi_Minh] PHP   7. require() /home/sucsongt/public_html/admin/core/base.php:94
+[05-Nov-2020 10:22:35 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_cate in /home/sucsongt/public_html/admin/modules/cate/views/listHighlightView.php on line 288
+[05-Nov-2020 10:22:35 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 10:22:35 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/public_html/admin/index.php:0
+[05-Nov-2020 10:22:35 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/public_html/admin/index.php:66
+[05-Nov-2020 10:22:35 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/public_html/admin/core/appload.php:42
+[05-Nov-2020 10:22:35 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/public_html/admin/core/router.php:12
+[05-Nov-2020 10:22:35 Asia/Ho_Chi_Minh] PHP   5. listCateHighlightAction() /home/sucsongt/public_html/admin/core/base.php:77
+[05-Nov-2020 10:22:35 Asia/Ho_Chi_Minh] PHP   6. load_view() /home/sucsongt/public_html/admin/modules/cate/controllers/indexController.php:133
+[05-Nov-2020 10:22:35 Asia/Ho_Chi_Minh] PHP   7. require() /home/sucsongt/public_html/admin/core/base.php:94
+[05-Nov-2020 10:22:35 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_cate in /home/sucsongt/public_html/admin/modules/cate/views/listHighlightView.php on line 290
+[05-Nov-2020 10:22:35 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 10:22:35 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/public_html/admin/index.php:0
+[05-Nov-2020 10:22:35 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/public_html/admin/index.php:66
+[05-Nov-2020 10:22:35 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/public_html/admin/core/appload.php:42
+[05-Nov-2020 10:22:35 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/public_html/admin/core/router.php:12
+[05-Nov-2020 10:22:35 Asia/Ho_Chi_Minh] PHP   5. listCateHighlightAction() /home/sucsongt/public_html/admin/core/base.php:77
+[05-Nov-2020 10:22:35 Asia/Ho_Chi_Minh] PHP   6. load_view() /home/sucsongt/public_html/admin/modules/cate/controllers/indexController.php:133
+[05-Nov-2020 10:22:35 Asia/Ho_Chi_Minh] PHP   7. require() /home/sucsongt/public_html/admin/core/base.php:94
+[05-Nov-2020 10:22:35 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_cate in /home/sucsongt/public_html/admin/modules/cate/views/listHighlightView.php on line 288
+[05-Nov-2020 10:22:35 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 10:22:35 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/public_html/admin/index.php:0
+[05-Nov-2020 10:22:35 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/public_html/admin/index.php:66
+[05-Nov-2020 10:22:35 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/public_html/admin/core/appload.php:42
+[05-Nov-2020 10:22:35 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/public_html/admin/core/router.php:12
+[05-Nov-2020 10:22:35 Asia/Ho_Chi_Minh] PHP   5. listCateHighlightAction() /home/sucsongt/public_html/admin/core/base.php:77
+[05-Nov-2020 10:22:35 Asia/Ho_Chi_Minh] PHP   6. load_view() /home/sucsongt/public_html/admin/modules/cate/controllers/indexController.php:133
+[05-Nov-2020 10:22:35 Asia/Ho_Chi_Minh] PHP   7. require() /home/sucsongt/public_html/admin/core/base.php:94
+[05-Nov-2020 10:22:35 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_cate in /home/sucsongt/public_html/admin/modules/cate/views/listHighlightView.php on line 290
+[05-Nov-2020 10:22:35 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 10:22:35 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/public_html/admin/index.php:0
+[05-Nov-2020 10:22:35 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/public_html/admin/index.php:66
+[05-Nov-2020 10:22:35 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/public_html/admin/core/appload.php:42
+[05-Nov-2020 10:22:35 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/public_html/admin/core/router.php:12
+[05-Nov-2020 10:22:35 Asia/Ho_Chi_Minh] PHP   5. listCateHighlightAction() /home/sucsongt/public_html/admin/core/base.php:77
+[05-Nov-2020 10:22:35 Asia/Ho_Chi_Minh] PHP   6. load_view() /home/sucsongt/public_html/admin/modules/cate/controllers/indexController.php:133
+[05-Nov-2020 10:22:35 Asia/Ho_Chi_Minh] PHP   7. require() /home/sucsongt/public_html/admin/core/base.php:94
+[05-Nov-2020 10:22:35 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_cate in /home/sucsongt/public_html/admin/modules/cate/views/listHighlightView.php on line 288
+[05-Nov-2020 10:22:35 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 10:22:35 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/public_html/admin/index.php:0
+[05-Nov-2020 10:22:35 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/public_html/admin/index.php:66
+[05-Nov-2020 10:22:35 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/public_html/admin/core/appload.php:42
+[05-Nov-2020 10:22:35 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/public_html/admin/core/router.php:12
+[05-Nov-2020 10:22:35 Asia/Ho_Chi_Minh] PHP   5. listCateHighlightAction() /home/sucsongt/public_html/admin/core/base.php:77
+[05-Nov-2020 10:22:35 Asia/Ho_Chi_Minh] PHP   6. load_view() /home/sucsongt/public_html/admin/modules/cate/controllers/indexController.php:133
+[05-Nov-2020 10:22:35 Asia/Ho_Chi_Minh] PHP   7. require() /home/sucsongt/public_html/admin/core/base.php:94
+[05-Nov-2020 10:22:35 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_cate in /home/sucsongt/public_html/admin/modules/cate/views/listHighlightView.php on line 290
+[05-Nov-2020 10:22:35 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 10:22:35 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/public_html/admin/index.php:0
+[05-Nov-2020 10:22:35 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/public_html/admin/index.php:66
+[05-Nov-2020 10:22:35 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/public_html/admin/core/appload.php:42
+[05-Nov-2020 10:22:35 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/public_html/admin/core/router.php:12
+[05-Nov-2020 10:22:35 Asia/Ho_Chi_Minh] PHP   5. listCateHighlightAction() /home/sucsongt/public_html/admin/core/base.php:77
+[05-Nov-2020 10:22:35 Asia/Ho_Chi_Minh] PHP   6. load_view() /home/sucsongt/public_html/admin/modules/cate/controllers/indexController.php:133
+[05-Nov-2020 10:22:35 Asia/Ho_Chi_Minh] PHP   7. require() /home/sucsongt/public_html/admin/core/base.php:94
+[05-Nov-2020 10:23:02 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_cate in /home/sucsongt/public_html/admin/modules/cate/views/listHighlightView.php on line 288
+[05-Nov-2020 10:23:02 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 10:23:02 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/public_html/admin/index.php:0
+[05-Nov-2020 10:23:02 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/public_html/admin/index.php:66
+[05-Nov-2020 10:23:02 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/public_html/admin/core/appload.php:42
+[05-Nov-2020 10:23:02 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/public_html/admin/core/router.php:12
+[05-Nov-2020 10:23:02 Asia/Ho_Chi_Minh] PHP   5. listCateHighlightAction() /home/sucsongt/public_html/admin/core/base.php:77
+[05-Nov-2020 10:23:02 Asia/Ho_Chi_Minh] PHP   6. load_view() /home/sucsongt/public_html/admin/modules/cate/controllers/indexController.php:133
+[05-Nov-2020 10:23:02 Asia/Ho_Chi_Minh] PHP   7. require() /home/sucsongt/public_html/admin/core/base.php:94
+[05-Nov-2020 10:23:02 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_cate in /home/sucsongt/public_html/admin/modules/cate/views/listHighlightView.php on line 290
+[05-Nov-2020 10:23:02 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 10:23:02 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/public_html/admin/index.php:0
+[05-Nov-2020 10:23:02 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/public_html/admin/index.php:66
+[05-Nov-2020 10:23:02 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/public_html/admin/core/appload.php:42
+[05-Nov-2020 10:23:02 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/public_html/admin/core/router.php:12
+[05-Nov-2020 10:23:02 Asia/Ho_Chi_Minh] PHP   5. listCateHighlightAction() /home/sucsongt/public_html/admin/core/base.php:77
+[05-Nov-2020 10:23:02 Asia/Ho_Chi_Minh] PHP   6. load_view() /home/sucsongt/public_html/admin/modules/cate/controllers/indexController.php:133
+[05-Nov-2020 10:23:02 Asia/Ho_Chi_Minh] PHP   7. require() /home/sucsongt/public_html/admin/core/base.php:94
+[05-Nov-2020 10:23:41 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_cate in /home/sucsongt/public_html/admin/modules/cate/views/listHighlightView.php on line 288
+[05-Nov-2020 10:23:41 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 10:23:41 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/public_html/admin/index.php:0
+[05-Nov-2020 10:23:41 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/public_html/admin/index.php:66
+[05-Nov-2020 10:23:41 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/public_html/admin/core/appload.php:42
+[05-Nov-2020 10:23:41 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/public_html/admin/core/router.php:12
+[05-Nov-2020 10:23:41 Asia/Ho_Chi_Minh] PHP   5. listCateHighlightAction() /home/sucsongt/public_html/admin/core/base.php:77
+[05-Nov-2020 10:23:41 Asia/Ho_Chi_Minh] PHP   6. load_view() /home/sucsongt/public_html/admin/modules/cate/controllers/indexController.php:133
+[05-Nov-2020 10:23:41 Asia/Ho_Chi_Minh] PHP   7. require() /home/sucsongt/public_html/admin/core/base.php:94
+[05-Nov-2020 10:23:41 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_cate in /home/sucsongt/public_html/admin/modules/cate/views/listHighlightView.php on line 290
+[05-Nov-2020 10:23:41 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 10:23:41 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/public_html/admin/index.php:0
+[05-Nov-2020 10:23:41 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/public_html/admin/index.php:66
+[05-Nov-2020 10:23:41 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/public_html/admin/core/appload.php:42
+[05-Nov-2020 10:23:41 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/public_html/admin/core/router.php:12
+[05-Nov-2020 10:23:41 Asia/Ho_Chi_Minh] PHP   5. listCateHighlightAction() /home/sucsongt/public_html/admin/core/base.php:77
+[05-Nov-2020 10:23:41 Asia/Ho_Chi_Minh] PHP   6. load_view() /home/sucsongt/public_html/admin/modules/cate/controllers/indexController.php:133
+[05-Nov-2020 10:23:41 Asia/Ho_Chi_Minh] PHP   7. require() /home/sucsongt/public_html/admin/core/base.php:94
+[05-Nov-2020 10:26:06 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_cate in /home/sucsongt/public_html/admin/modules/cate/views/listHighlightView.php on line 288
+[05-Nov-2020 10:26:06 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 10:26:06 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/public_html/admin/index.php:0
+[05-Nov-2020 10:26:06 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/public_html/admin/index.php:66
+[05-Nov-2020 10:26:06 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/public_html/admin/core/appload.php:42
+[05-Nov-2020 10:26:06 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/public_html/admin/core/router.php:12
+[05-Nov-2020 10:26:06 Asia/Ho_Chi_Minh] PHP   5. listCateHighlightAction() /home/sucsongt/public_html/admin/core/base.php:77
+[05-Nov-2020 10:26:06 Asia/Ho_Chi_Minh] PHP   6. load_view() /home/sucsongt/public_html/admin/modules/cate/controllers/indexController.php:133
+[05-Nov-2020 10:26:06 Asia/Ho_Chi_Minh] PHP   7. require() /home/sucsongt/public_html/admin/core/base.php:94
+[05-Nov-2020 10:26:06 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_cate in /home/sucsongt/public_html/admin/modules/cate/views/listHighlightView.php on line 290
+[05-Nov-2020 10:26:06 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 10:26:06 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/public_html/admin/index.php:0
+[05-Nov-2020 10:26:06 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/public_html/admin/index.php:66
+[05-Nov-2020 10:26:06 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/public_html/admin/core/appload.php:42
+[05-Nov-2020 10:26:06 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/public_html/admin/core/router.php:12
+[05-Nov-2020 10:26:06 Asia/Ho_Chi_Minh] PHP   5. listCateHighlightAction() /home/sucsongt/public_html/admin/core/base.php:77
+[05-Nov-2020 10:26:06 Asia/Ho_Chi_Minh] PHP   6. load_view() /home/sucsongt/public_html/admin/modules/cate/controllers/indexController.php:133
+[05-Nov-2020 10:26:06 Asia/Ho_Chi_Minh] PHP   7. require() /home/sucsongt/public_html/admin/core/base.php:94
+[05-Nov-2020 10:31:26 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_cate in /home/sucsongt/public_html/admin/modules/cate/views/listHighlightView.php on line 288
+[05-Nov-2020 10:31:26 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 10:31:26 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/public_html/admin/index.php:0
+[05-Nov-2020 10:31:26 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/public_html/admin/index.php:66
+[05-Nov-2020 10:31:26 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/public_html/admin/core/appload.php:42
+[05-Nov-2020 10:31:26 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/public_html/admin/core/router.php:12
+[05-Nov-2020 10:31:26 Asia/Ho_Chi_Minh] PHP   5. listCateHighlightAction() /home/sucsongt/public_html/admin/core/base.php:77
+[05-Nov-2020 10:31:26 Asia/Ho_Chi_Minh] PHP   6. load_view() /home/sucsongt/public_html/admin/modules/cate/controllers/indexController.php:134
+[05-Nov-2020 10:31:26 Asia/Ho_Chi_Minh] PHP   7. require() /home/sucsongt/public_html/admin/core/base.php:94
+[05-Nov-2020 10:31:26 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_cate in /home/sucsongt/public_html/admin/modules/cate/views/listHighlightView.php on line 290
+[05-Nov-2020 10:31:26 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 10:31:26 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/public_html/admin/index.php:0
+[05-Nov-2020 10:31:26 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/public_html/admin/index.php:66
+[05-Nov-2020 10:31:26 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/public_html/admin/core/appload.php:42
+[05-Nov-2020 10:31:26 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/public_html/admin/core/router.php:12
+[05-Nov-2020 10:31:26 Asia/Ho_Chi_Minh] PHP   5. listCateHighlightAction() /home/sucsongt/public_html/admin/core/base.php:77
+[05-Nov-2020 10:31:26 Asia/Ho_Chi_Minh] PHP   6. load_view() /home/sucsongt/public_html/admin/modules/cate/controllers/indexController.php:134
+[05-Nov-2020 10:31:26 Asia/Ho_Chi_Minh] PHP   7. require() /home/sucsongt/public_html/admin/core/base.php:94
+[05-Nov-2020 10:32:06 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_cate in /home/sucsongt/public_html/admin/modules/cate/views/listHighlightView.php on line 288
+[05-Nov-2020 10:32:06 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 10:32:06 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/public_html/admin/index.php:0
+[05-Nov-2020 10:32:06 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/public_html/admin/index.php:66
+[05-Nov-2020 10:32:06 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/public_html/admin/core/appload.php:42
+[05-Nov-2020 10:32:06 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/public_html/admin/core/router.php:12
+[05-Nov-2020 10:32:06 Asia/Ho_Chi_Minh] PHP   5. listCateHighlightAction() /home/sucsongt/public_html/admin/core/base.php:77
+[05-Nov-2020 10:32:06 Asia/Ho_Chi_Minh] PHP   6. load_view() /home/sucsongt/public_html/admin/modules/cate/controllers/indexController.php:134
+[05-Nov-2020 10:32:06 Asia/Ho_Chi_Minh] PHP   7. require() /home/sucsongt/public_html/admin/core/base.php:94
+[05-Nov-2020 10:32:06 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_cate in /home/sucsongt/public_html/admin/modules/cate/views/listHighlightView.php on line 290
+[05-Nov-2020 10:32:06 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 10:32:06 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/public_html/admin/index.php:0
+[05-Nov-2020 10:32:06 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/public_html/admin/index.php:66
+[05-Nov-2020 10:32:06 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/public_html/admin/core/appload.php:42
+[05-Nov-2020 10:32:06 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/public_html/admin/core/router.php:12
+[05-Nov-2020 10:32:06 Asia/Ho_Chi_Minh] PHP   5. listCateHighlightAction() /home/sucsongt/public_html/admin/core/base.php:77
+[05-Nov-2020 10:32:06 Asia/Ho_Chi_Minh] PHP   6. load_view() /home/sucsongt/public_html/admin/modules/cate/controllers/indexController.php:134
+[05-Nov-2020 10:32:06 Asia/Ho_Chi_Minh] PHP   7. require() /home/sucsongt/public_html/admin/core/base.php:94
+[05-Nov-2020 10:34:25 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_cate in /home/sucsongt/public_html/admin/modules/cate/views/listHighlightView.php on line 289
+[05-Nov-2020 10:34:25 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 10:34:25 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/public_html/admin/index.php:0
+[05-Nov-2020 10:34:25 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/public_html/admin/index.php:66
+[05-Nov-2020 10:34:25 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/public_html/admin/core/appload.php:42
+[05-Nov-2020 10:34:25 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/public_html/admin/core/router.php:12
+[05-Nov-2020 10:34:25 Asia/Ho_Chi_Minh] PHP   5. listCateHighlightAction() /home/sucsongt/public_html/admin/core/base.php:77
+[05-Nov-2020 10:34:25 Asia/Ho_Chi_Minh] PHP   6. load_view() /home/sucsongt/public_html/admin/modules/cate/controllers/indexController.php:134
+[05-Nov-2020 10:34:25 Asia/Ho_Chi_Minh] PHP   7. require() /home/sucsongt/public_html/admin/core/base.php:94
+[05-Nov-2020 10:34:25 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_cate in /home/sucsongt/public_html/admin/modules/cate/views/listHighlightView.php on line 291
+[05-Nov-2020 10:34:25 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 10:34:25 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/public_html/admin/index.php:0
+[05-Nov-2020 10:34:25 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/public_html/admin/index.php:66
+[05-Nov-2020 10:34:25 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/public_html/admin/core/appload.php:42
+[05-Nov-2020 10:34:25 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/public_html/admin/core/router.php:12
+[05-Nov-2020 10:34:25 Asia/Ho_Chi_Minh] PHP   5. listCateHighlightAction() /home/sucsongt/public_html/admin/core/base.php:77
+[05-Nov-2020 10:34:25 Asia/Ho_Chi_Minh] PHP   6. load_view() /home/sucsongt/public_html/admin/modules/cate/controllers/indexController.php:134
+[05-Nov-2020 10:34:25 Asia/Ho_Chi_Minh] PHP   7. require() /home/sucsongt/public_html/admin/core/base.php:94
+[05-Nov-2020 10:35:30 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: cateItem in /home/sucsongt/public_html/admin/modules/cate/views/listHighlightView.php on line 287
+[05-Nov-2020 10:35:30 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 10:35:30 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/public_html/admin/index.php:0
+[05-Nov-2020 10:35:30 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/public_html/admin/index.php:66
+[05-Nov-2020 10:35:30 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/public_html/admin/core/appload.php:42
+[05-Nov-2020 10:35:30 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/public_html/admin/core/router.php:12
+[05-Nov-2020 10:35:30 Asia/Ho_Chi_Minh] PHP   5. listCateHighlightAction() /home/sucsongt/public_html/admin/core/base.php:77
+[05-Nov-2020 10:35:30 Asia/Ho_Chi_Minh] PHP   6. load_view() /home/sucsongt/public_html/admin/modules/cate/controllers/indexController.php:134
+[05-Nov-2020 10:35:30 Asia/Ho_Chi_Minh] PHP   7. require() /home/sucsongt/public_html/admin/core/base.php:94
+[05-Nov-2020 10:35:30 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_cate in /home/sucsongt/public_html/admin/modules/cate/views/listHighlightView.php on line 290
+[05-Nov-2020 10:35:30 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 10:35:30 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/public_html/admin/index.php:0
+[05-Nov-2020 10:35:30 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/public_html/admin/index.php:66
+[05-Nov-2020 10:35:30 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/public_html/admin/core/appload.php:42
+[05-Nov-2020 10:35:30 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/public_html/admin/core/router.php:12
+[05-Nov-2020 10:35:30 Asia/Ho_Chi_Minh] PHP   5. listCateHighlightAction() /home/sucsongt/public_html/admin/core/base.php:77
+[05-Nov-2020 10:35:30 Asia/Ho_Chi_Minh] PHP   6. load_view() /home/sucsongt/public_html/admin/modules/cate/controllers/indexController.php:134
+[05-Nov-2020 10:35:30 Asia/Ho_Chi_Minh] PHP   7. require() /home/sucsongt/public_html/admin/core/base.php:94
+[05-Nov-2020 10:35:30 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_cate in /home/sucsongt/public_html/admin/modules/cate/views/listHighlightView.php on line 292
+[05-Nov-2020 10:35:30 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 10:35:30 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/public_html/admin/index.php:0
+[05-Nov-2020 10:35:30 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/public_html/admin/index.php:66
+[05-Nov-2020 10:35:30 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/public_html/admin/core/appload.php:42
+[05-Nov-2020 10:35:30 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/public_html/admin/core/router.php:12
+[05-Nov-2020 10:35:30 Asia/Ho_Chi_Minh] PHP   5. listCateHighlightAction() /home/sucsongt/public_html/admin/core/base.php:77
+[05-Nov-2020 10:35:30 Asia/Ho_Chi_Minh] PHP   6. load_view() /home/sucsongt/public_html/admin/modules/cate/controllers/indexController.php:134
+[05-Nov-2020 10:35:30 Asia/Ho_Chi_Minh] PHP   7. require() /home/sucsongt/public_html/admin/core/base.php:94
+[05-Nov-2020 10:35:48 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_cate in /home/sucsongt/public_html/admin/modules/cate/views/listHighlightView.php on line 290
+[05-Nov-2020 10:35:48 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 10:35:48 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/public_html/admin/index.php:0
+[05-Nov-2020 10:35:48 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/public_html/admin/index.php:66
+[05-Nov-2020 10:35:48 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/public_html/admin/core/appload.php:42
+[05-Nov-2020 10:35:48 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/public_html/admin/core/router.php:12
+[05-Nov-2020 10:35:48 Asia/Ho_Chi_Minh] PHP   5. listCateHighlightAction() /home/sucsongt/public_html/admin/core/base.php:77
+[05-Nov-2020 10:35:48 Asia/Ho_Chi_Minh] PHP   6. load_view() /home/sucsongt/public_html/admin/modules/cate/controllers/indexController.php:134
+[05-Nov-2020 10:35:48 Asia/Ho_Chi_Minh] PHP   7. require() /home/sucsongt/public_html/admin/core/base.php:94
+[05-Nov-2020 10:35:48 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_cate in /home/sucsongt/public_html/admin/modules/cate/views/listHighlightView.php on line 292
+[05-Nov-2020 10:35:48 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 10:35:48 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/public_html/admin/index.php:0
+[05-Nov-2020 10:35:48 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/public_html/admin/index.php:66
+[05-Nov-2020 10:35:48 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/public_html/admin/core/appload.php:42
+[05-Nov-2020 10:35:48 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/public_html/admin/core/router.php:12
+[05-Nov-2020 10:35:48 Asia/Ho_Chi_Minh] PHP   5. listCateHighlightAction() /home/sucsongt/public_html/admin/core/base.php:77
+[05-Nov-2020 10:35:48 Asia/Ho_Chi_Minh] PHP   6. load_view() /home/sucsongt/public_html/admin/modules/cate/controllers/indexController.php:134
+[05-Nov-2020 10:35:48 Asia/Ho_Chi_Minh] PHP   7. require() /home/sucsongt/public_html/admin/core/base.php:94
+[05-Nov-2020 10:36:08 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: cateItem in /home/sucsongt/public_html/admin/modules/cate/views/listHighlightView.php on line 287
+[05-Nov-2020 10:36:08 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 10:36:08 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/public_html/admin/index.php:0
+[05-Nov-2020 10:36:08 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/public_html/admin/index.php:66
+[05-Nov-2020 10:36:08 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/public_html/admin/core/appload.php:42
+[05-Nov-2020 10:36:08 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/public_html/admin/core/router.php:12
+[05-Nov-2020 10:36:08 Asia/Ho_Chi_Minh] PHP   5. listCateHighlightAction() /home/sucsongt/public_html/admin/core/base.php:77
+[05-Nov-2020 10:36:08 Asia/Ho_Chi_Minh] PHP   6. load_view() /home/sucsongt/public_html/admin/modules/cate/controllers/indexController.php:134
+[05-Nov-2020 10:36:08 Asia/Ho_Chi_Minh] PHP   7. require() /home/sucsongt/public_html/admin/core/base.php:94
+[05-Nov-2020 10:36:08 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_cate in /home/sucsongt/public_html/admin/modules/cate/views/listHighlightView.php on line 290
+[05-Nov-2020 10:36:08 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 10:36:08 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/public_html/admin/index.php:0
+[05-Nov-2020 10:36:08 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/public_html/admin/index.php:66
+[05-Nov-2020 10:36:08 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/public_html/admin/core/appload.php:42
+[05-Nov-2020 10:36:08 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/public_html/admin/core/router.php:12
+[05-Nov-2020 10:36:08 Asia/Ho_Chi_Minh] PHP   5. listCateHighlightAction() /home/sucsongt/public_html/admin/core/base.php:77
+[05-Nov-2020 10:36:08 Asia/Ho_Chi_Minh] PHP   6. load_view() /home/sucsongt/public_html/admin/modules/cate/controllers/indexController.php:134
+[05-Nov-2020 10:36:08 Asia/Ho_Chi_Minh] PHP   7. require() /home/sucsongt/public_html/admin/core/base.php:94
+[05-Nov-2020 10:36:08 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_cate in /home/sucsongt/public_html/admin/modules/cate/views/listHighlightView.php on line 292
+[05-Nov-2020 10:36:08 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 10:36:08 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/public_html/admin/index.php:0
+[05-Nov-2020 10:36:08 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/public_html/admin/index.php:66
+[05-Nov-2020 10:36:08 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/public_html/admin/core/appload.php:42
+[05-Nov-2020 10:36:08 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/public_html/admin/core/router.php:12
+[05-Nov-2020 10:36:08 Asia/Ho_Chi_Minh] PHP   5. listCateHighlightAction() /home/sucsongt/public_html/admin/core/base.php:77
+[05-Nov-2020 10:36:08 Asia/Ho_Chi_Minh] PHP   6. load_view() /home/sucsongt/public_html/admin/modules/cate/controllers/indexController.php:134
+[05-Nov-2020 10:36:08 Asia/Ho_Chi_Minh] PHP   7. require() /home/sucsongt/public_html/admin/core/base.php:94
+[05-Nov-2020 10:36:27 Asia/Ho_Chi_Minh] PHP Notice:  Array to string conversion in /home/sucsongt/public_html/admin/modules/cate/views/listHighlightView.php on line 289
+[05-Nov-2020 10:36:27 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 10:36:27 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/public_html/admin/index.php:0
+[05-Nov-2020 10:36:27 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/public_html/admin/index.php:66
+[05-Nov-2020 10:36:27 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/public_html/admin/core/appload.php:42
+[05-Nov-2020 10:36:27 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/public_html/admin/core/router.php:12
+[05-Nov-2020 10:36:27 Asia/Ho_Chi_Minh] PHP   5. listCateHighlightAction() /home/sucsongt/public_html/admin/core/base.php:77
+[05-Nov-2020 10:36:27 Asia/Ho_Chi_Minh] PHP   6. load_view() /home/sucsongt/public_html/admin/modules/cate/controllers/indexController.php:134
+[05-Nov-2020 10:36:27 Asia/Ho_Chi_Minh] PHP   7. require() /home/sucsongt/public_html/admin/core/base.php:94
+[05-Nov-2020 10:36:27 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_cate in /home/sucsongt/public_html/admin/modules/cate/views/listHighlightView.php on line 291
+[05-Nov-2020 10:36:27 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 10:36:27 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/public_html/admin/index.php:0
+[05-Nov-2020 10:36:27 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/public_html/admin/index.php:66
+[05-Nov-2020 10:36:27 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/public_html/admin/core/appload.php:42
+[05-Nov-2020 10:36:27 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/public_html/admin/core/router.php:12
+[05-Nov-2020 10:36:27 Asia/Ho_Chi_Minh] PHP   5. listCateHighlightAction() /home/sucsongt/public_html/admin/core/base.php:77
+[05-Nov-2020 10:36:27 Asia/Ho_Chi_Minh] PHP   6. load_view() /home/sucsongt/public_html/admin/modules/cate/controllers/indexController.php:134
+[05-Nov-2020 10:36:27 Asia/Ho_Chi_Minh] PHP   7. require() /home/sucsongt/public_html/admin/core/base.php:94
+[05-Nov-2020 10:36:27 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_cate in /home/sucsongt/public_html/admin/modules/cate/views/listHighlightView.php on line 293
+[05-Nov-2020 10:36:27 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 10:36:27 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/public_html/admin/index.php:0
+[05-Nov-2020 10:36:27 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/public_html/admin/index.php:66
+[05-Nov-2020 10:36:27 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/public_html/admin/core/appload.php:42
+[05-Nov-2020 10:36:27 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/public_html/admin/core/router.php:12
+[05-Nov-2020 10:36:27 Asia/Ho_Chi_Minh] PHP   5. listCateHighlightAction() /home/sucsongt/public_html/admin/core/base.php:77
+[05-Nov-2020 10:36:27 Asia/Ho_Chi_Minh] PHP   6. load_view() /home/sucsongt/public_html/admin/modules/cate/controllers/indexController.php:134
+[05-Nov-2020 10:36:27 Asia/Ho_Chi_Minh] PHP   7. require() /home/sucsongt/public_html/admin/core/base.php:94
+[05-Nov-2020 10:36:43 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_cate in /home/sucsongt/public_html/admin/modules/cate/views/listHighlightView.php on line 291
+[05-Nov-2020 10:36:43 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 10:36:43 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/public_html/admin/index.php:0
+[05-Nov-2020 10:36:43 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/public_html/admin/index.php:66
+[05-Nov-2020 10:36:43 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/public_html/admin/core/appload.php:42
+[05-Nov-2020 10:36:43 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/public_html/admin/core/router.php:12
+[05-Nov-2020 10:36:43 Asia/Ho_Chi_Minh] PHP   5. listCateHighlightAction() /home/sucsongt/public_html/admin/core/base.php:77
+[05-Nov-2020 10:36:43 Asia/Ho_Chi_Minh] PHP   6. load_view() /home/sucsongt/public_html/admin/modules/cate/controllers/indexController.php:134
+[05-Nov-2020 10:36:43 Asia/Ho_Chi_Minh] PHP   7. require() /home/sucsongt/public_html/admin/core/base.php:94
+[05-Nov-2020 10:36:43 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_cate in /home/sucsongt/public_html/admin/modules/cate/views/listHighlightView.php on line 293
+[05-Nov-2020 10:36:43 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 10:36:43 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/public_html/admin/index.php:0
+[05-Nov-2020 10:36:43 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/public_html/admin/index.php:66
+[05-Nov-2020 10:36:43 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/public_html/admin/core/appload.php:42
+[05-Nov-2020 10:36:43 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/public_html/admin/core/router.php:12
+[05-Nov-2020 10:36:43 Asia/Ho_Chi_Minh] PHP   5. listCateHighlightAction() /home/sucsongt/public_html/admin/core/base.php:77
+[05-Nov-2020 10:36:43 Asia/Ho_Chi_Minh] PHP   6. load_view() /home/sucsongt/public_html/admin/modules/cate/controllers/indexController.php:134
+[05-Nov-2020 10:36:43 Asia/Ho_Chi_Minh] PHP   7. require() /home/sucsongt/public_html/admin/core/base.php:94
+[05-Nov-2020 10:36:59 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_cate in /home/sucsongt/public_html/admin/modules/cate/views/listHighlightView.php on line 291
+[05-Nov-2020 10:36:59 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 10:36:59 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/public_html/admin/index.php:0
+[05-Nov-2020 10:36:59 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/public_html/admin/index.php:66
+[05-Nov-2020 10:36:59 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/public_html/admin/core/appload.php:42
+[05-Nov-2020 10:36:59 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/public_html/admin/core/router.php:12
+[05-Nov-2020 10:36:59 Asia/Ho_Chi_Minh] PHP   5. listCateHighlightAction() /home/sucsongt/public_html/admin/core/base.php:77
+[05-Nov-2020 10:36:59 Asia/Ho_Chi_Minh] PHP   6. load_view() /home/sucsongt/public_html/admin/modules/cate/controllers/indexController.php:134
+[05-Nov-2020 10:36:59 Asia/Ho_Chi_Minh] PHP   7. require() /home/sucsongt/public_html/admin/core/base.php:94
+[05-Nov-2020 10:36:59 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_cate in /home/sucsongt/public_html/admin/modules/cate/views/listHighlightView.php on line 293
+[05-Nov-2020 10:36:59 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 10:36:59 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/public_html/admin/index.php:0
+[05-Nov-2020 10:36:59 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/public_html/admin/index.php:66
+[05-Nov-2020 10:36:59 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/public_html/admin/core/appload.php:42
+[05-Nov-2020 10:36:59 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/public_html/admin/core/router.php:12
+[05-Nov-2020 10:36:59 Asia/Ho_Chi_Minh] PHP   5. listCateHighlightAction() /home/sucsongt/public_html/admin/core/base.php:77
+[05-Nov-2020 10:36:59 Asia/Ho_Chi_Minh] PHP   6. load_view() /home/sucsongt/public_html/admin/modules/cate/controllers/indexController.php:134
+[05-Nov-2020 10:36:59 Asia/Ho_Chi_Minh] PHP   7. require() /home/sucsongt/public_html/admin/core/base.php:94
+[05-Nov-2020 10:37:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_cate in /home/sucsongt/public_html/admin/modules/cate/views/listHighlightView.php on line 291
+[05-Nov-2020 10:37:11 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 10:37:11 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/public_html/admin/index.php:0
+[05-Nov-2020 10:37:11 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/public_html/admin/index.php:66
+[05-Nov-2020 10:37:11 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/public_html/admin/core/appload.php:42
+[05-Nov-2020 10:37:11 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/public_html/admin/core/router.php:12
+[05-Nov-2020 10:37:11 Asia/Ho_Chi_Minh] PHP   5. listCateHighlightAction() /home/sucsongt/public_html/admin/core/base.php:77
+[05-Nov-2020 10:37:11 Asia/Ho_Chi_Minh] PHP   6. load_view() /home/sucsongt/public_html/admin/modules/cate/controllers/indexController.php:134
+[05-Nov-2020 10:37:11 Asia/Ho_Chi_Minh] PHP   7. require() /home/sucsongt/public_html/admin/core/base.php:94
+[05-Nov-2020 10:37:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_cate in /home/sucsongt/public_html/admin/modules/cate/views/listHighlightView.php on line 293
+[05-Nov-2020 10:37:11 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 10:37:11 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/public_html/admin/index.php:0
+[05-Nov-2020 10:37:11 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/public_html/admin/index.php:66
+[05-Nov-2020 10:37:11 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/public_html/admin/core/appload.php:42
+[05-Nov-2020 10:37:11 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/public_html/admin/core/router.php:12
+[05-Nov-2020 10:37:11 Asia/Ho_Chi_Minh] PHP   5. listCateHighlightAction() /home/sucsongt/public_html/admin/core/base.php:77
+[05-Nov-2020 10:37:11 Asia/Ho_Chi_Minh] PHP   6. load_view() /home/sucsongt/public_html/admin/modules/cate/controllers/indexController.php:134
+[05-Nov-2020 10:37:11 Asia/Ho_Chi_Minh] PHP   7. require() /home/sucsongt/public_html/admin/core/base.php:94
+[05-Nov-2020 10:38:34 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_cate in /home/sucsongt/public_html/admin/modules/cate/views/listHighlightView.php on line 290
+[05-Nov-2020 10:38:34 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 10:38:34 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/public_html/admin/index.php:0
+[05-Nov-2020 10:38:34 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/public_html/admin/index.php:66
+[05-Nov-2020 10:38:34 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/public_html/admin/core/appload.php:42
+[05-Nov-2020 10:38:34 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/public_html/admin/core/router.php:12
+[05-Nov-2020 10:38:34 Asia/Ho_Chi_Minh] PHP   5. listCateHighlightAction() /home/sucsongt/public_html/admin/core/base.php:77
+[05-Nov-2020 10:38:34 Asia/Ho_Chi_Minh] PHP   6. load_view() /home/sucsongt/public_html/admin/modules/cate/controllers/indexController.php:134
+[05-Nov-2020 10:38:34 Asia/Ho_Chi_Minh] PHP   7. require() /home/sucsongt/public_html/admin/core/base.php:94
+[05-Nov-2020 10:38:51 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_cate in /home/sucsongt/public_html/admin/modules/cate/views/listHighlightView.php on line 290
+[05-Nov-2020 10:38:51 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 10:38:51 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/public_html/admin/index.php:0
+[05-Nov-2020 10:38:51 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/public_html/admin/index.php:66
+[05-Nov-2020 10:38:51 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/public_html/admin/core/appload.php:42
+[05-Nov-2020 10:38:51 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/public_html/admin/core/router.php:12
+[05-Nov-2020 10:38:51 Asia/Ho_Chi_Minh] PHP   5. listCateHighlightAction() /home/sucsongt/public_html/admin/core/base.php:77
+[05-Nov-2020 10:38:51 Asia/Ho_Chi_Minh] PHP   6. load_view() /home/sucsongt/public_html/admin/modules/cate/controllers/indexController.php:134
+[05-Nov-2020 10:38:51 Asia/Ho_Chi_Minh] PHP   7. require() /home/sucsongt/public_html/admin/core/base.php:94
+[05-Nov-2020 10:39:38 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_cate in /home/sucsongt/public_html/admin/modules/cate/views/listHighlightView.php on line 290
+[05-Nov-2020 10:39:38 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 10:39:38 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/public_html/admin/index.php:0
+[05-Nov-2020 10:39:38 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/public_html/admin/index.php:66
+[05-Nov-2020 10:39:38 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/public_html/admin/core/appload.php:42
+[05-Nov-2020 10:39:38 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/public_html/admin/core/router.php:12
+[05-Nov-2020 10:39:38 Asia/Ho_Chi_Minh] PHP   5. listCateHighlightAction() /home/sucsongt/public_html/admin/core/base.php:77
+[05-Nov-2020 10:39:38 Asia/Ho_Chi_Minh] PHP   6. load_view() /home/sucsongt/public_html/admin/modules/cate/controllers/indexController.php:134
+[05-Nov-2020 10:39:38 Asia/Ho_Chi_Minh] PHP   7. require() /home/sucsongt/public_html/admin/core/base.php:94
+[05-Nov-2020 17:23:27 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: hire_purchase in /home/sucsongt/capri.vn/admin/modules/prod/controllers/indexController.php on line 432
+[05-Nov-2020 17:23:27 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 17:23:27 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/capri.vn/admin/index.php:0
+[05-Nov-2020 17:23:27 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/capri.vn/admin/index.php:66
+[05-Nov-2020 17:23:27 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/capri.vn/admin/core/appload.php:42
+[05-Nov-2020 17:23:27 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/capri.vn/admin/core/router.php:12
+[05-Nov-2020 17:23:27 Asia/Ho_Chi_Minh] PHP   5. updateAction() /home/sucsongt/capri.vn/admin/core/base.php:77
+[05-Nov-2020 17:24:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: hire_purchase in /home/sucsongt/capri.vn/admin/modules/prod/controllers/indexController.php on line 432
+[05-Nov-2020 17:24:24 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 17:24:24 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/capri.vn/admin/index.php:0
+[05-Nov-2020 17:24:24 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/capri.vn/admin/index.php:66
+[05-Nov-2020 17:24:24 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/capri.vn/admin/core/appload.php:42
+[05-Nov-2020 17:24:24 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/capri.vn/admin/core/router.php:12
+[05-Nov-2020 17:24:24 Asia/Ho_Chi_Minh] PHP   5. updateAction() /home/sucsongt/capri.vn/admin/core/base.php:77
+[05-Nov-2020 17:25:53 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: hire_purchase in /home/sucsongt/capri.vn/admin/modules/prod/controllers/indexController.php on line 432
+[05-Nov-2020 17:25:53 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 17:25:53 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/capri.vn/admin/index.php:0
+[05-Nov-2020 17:25:53 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/capri.vn/admin/index.php:66
+[05-Nov-2020 17:25:53 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/capri.vn/admin/core/appload.php:42
+[05-Nov-2020 17:25:53 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/capri.vn/admin/core/router.php:12
+[05-Nov-2020 17:25:53 Asia/Ho_Chi_Minh] PHP   5. updateAction() /home/sucsongt/capri.vn/admin/core/base.php:77
+[05-Nov-2020 17:26:06 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: hire_purchase in /home/sucsongt/capri.vn/admin/modules/prod/controllers/indexController.php on line 432
+[05-Nov-2020 17:26:06 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 17:26:06 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/capri.vn/admin/index.php:0
+[05-Nov-2020 17:26:06 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/capri.vn/admin/index.php:66
+[05-Nov-2020 17:26:06 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/capri.vn/admin/core/appload.php:42
+[05-Nov-2020 17:26:06 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/capri.vn/admin/core/router.php:12
+[05-Nov-2020 17:26:06 Asia/Ho_Chi_Minh] PHP   5. updateAction() /home/sucsongt/capri.vn/admin/core/base.php:77
+[05-Nov-2020 17:26:17 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: hire_purchase in /home/sucsongt/capri.vn/admin/modules/prod/controllers/indexController.php on line 432
+[05-Nov-2020 17:26:17 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 17:26:17 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/capri.vn/admin/index.php:0
+[05-Nov-2020 17:26:17 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/capri.vn/admin/index.php:66
+[05-Nov-2020 17:26:17 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/capri.vn/admin/core/appload.php:42
+[05-Nov-2020 17:26:17 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/capri.vn/admin/core/router.php:12
+[05-Nov-2020 17:26:17 Asia/Ho_Chi_Minh] PHP   5. updateAction() /home/sucsongt/capri.vn/admin/core/base.php:77
+[05-Nov-2020 17:27:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: hire_purchase in /home/sucsongt/capri.vn/admin/modules/prod/controllers/indexController.php on line 432
+[05-Nov-2020 17:27:11 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 17:27:11 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/capri.vn/admin/index.php:0
+[05-Nov-2020 17:27:11 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/capri.vn/admin/index.php:66
+[05-Nov-2020 17:27:11 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/capri.vn/admin/core/appload.php:42
+[05-Nov-2020 17:27:11 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/capri.vn/admin/core/router.php:12
+[05-Nov-2020 17:27:11 Asia/Ho_Chi_Minh] PHP   5. updateAction() /home/sucsongt/capri.vn/admin/core/base.php:77
+[05-Nov-2020 17:27:55 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: hire_purchase in /home/sucsongt/capri.vn/admin/modules/prod/controllers/indexController.php on line 432
+[05-Nov-2020 17:27:55 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 17:27:55 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/capri.vn/admin/index.php:0
+[05-Nov-2020 17:27:55 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/capri.vn/admin/index.php:66
+[05-Nov-2020 17:27:55 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/capri.vn/admin/core/appload.php:42
+[05-Nov-2020 17:27:55 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/capri.vn/admin/core/router.php:12
+[05-Nov-2020 17:27:55 Asia/Ho_Chi_Minh] PHP   5. updateAction() /home/sucsongt/capri.vn/admin/core/base.php:77
+[05-Nov-2020 17:29:02 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: hire_purchase in /home/sucsongt/capri.vn/admin/modules/prod/controllers/indexController.php on line 432
+[05-Nov-2020 17:29:02 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 17:29:02 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/capri.vn/admin/index.php:0
+[05-Nov-2020 17:29:02 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/capri.vn/admin/index.php:66
+[05-Nov-2020 17:29:02 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/capri.vn/admin/core/appload.php:42
+[05-Nov-2020 17:29:02 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/capri.vn/admin/core/router.php:12
+[05-Nov-2020 17:29:02 Asia/Ho_Chi_Minh] PHP   5. updateAction() /home/sucsongt/capri.vn/admin/core/base.php:77
+[05-Nov-2020 17:29:53 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: hire_purchase in /home/sucsongt/capri.vn/admin/modules/prod/controllers/indexController.php on line 432
+[05-Nov-2020 17:29:53 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 17:29:53 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/capri.vn/admin/index.php:0
+[05-Nov-2020 17:29:53 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/capri.vn/admin/index.php:66
+[05-Nov-2020 17:29:53 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/capri.vn/admin/core/appload.php:42
+[05-Nov-2020 17:29:53 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/capri.vn/admin/core/router.php:12
+[05-Nov-2020 17:29:53 Asia/Ho_Chi_Minh] PHP   5. updateAction() /home/sucsongt/capri.vn/admin/core/base.php:77
+[05-Nov-2020 17:30:18 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: hire_purchase in /home/sucsongt/capri.vn/admin/modules/prod/controllers/indexController.php on line 432
+[05-Nov-2020 17:30:18 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 17:30:18 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/capri.vn/admin/index.php:0
+[05-Nov-2020 17:30:18 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/capri.vn/admin/index.php:66
+[05-Nov-2020 17:30:18 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/capri.vn/admin/core/appload.php:42
+[05-Nov-2020 17:30:18 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/capri.vn/admin/core/router.php:12
+[05-Nov-2020 17:30:18 Asia/Ho_Chi_Minh] PHP   5. updateAction() /home/sucsongt/capri.vn/admin/core/base.php:77
+[05-Nov-2020 17:30:53 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: hire_purchase in /home/sucsongt/capri.vn/admin/modules/prod/controllers/indexController.php on line 432
+[05-Nov-2020 17:30:53 Asia/Ho_Chi_Minh] PHP Stack trace:
+[05-Nov-2020 17:30:53 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/capri.vn/admin/index.php:0
+[05-Nov-2020 17:30:53 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/capri.vn/admin/index.php:66
+[05-Nov-2020 17:30:53 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/capri.vn/admin/core/appload.php:42
+[05-Nov-2020 17:30:53 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/capri.vn/admin/core/router.php:12
+[05-Nov-2020 17:30:53 Asia/Ho_Chi_Minh] PHP   5. updateAction() /home/sucsongt/capri.vn/admin/core/base.php:77
+[07-Nov-2020 08:40:08 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: configStatus in /home/sucsongt/capri.vn/admin/modules/prod/controllers/indexController.php on line 580
+[07-Nov-2020 08:40:08 Asia/Ho_Chi_Minh] PHP Stack trace:
+[07-Nov-2020 08:40:08 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/capri.vn/admin/index.php:0
+[07-Nov-2020 08:40:08 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/capri.vn/admin/index.php:66
+[07-Nov-2020 08:40:08 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/capri.vn/admin/core/appload.php:42
+[07-Nov-2020 08:40:08 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/capri.vn/admin/core/router.php:12
+[07-Nov-2020 08:40:08 Asia/Ho_Chi_Minh] PHP   5. getTotalPagePaginationAction() /home/sucsongt/capri.vn/admin/core/base.php:77
+[07-Nov-2020 08:40:08 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/sucsongt/capri.vn/admin/modules/prod/controllers/indexController.php on line 583
+[07-Nov-2020 08:40:08 Asia/Ho_Chi_Minh] PHP Stack trace:
+[07-Nov-2020 08:40:08 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/capri.vn/admin/index.php:0
+[07-Nov-2020 08:40:08 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/capri.vn/admin/index.php:66
+[07-Nov-2020 08:40:08 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/capri.vn/admin/core/appload.php:42
+[07-Nov-2020 08:40:08 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/capri.vn/admin/core/router.php:12
+[07-Nov-2020 08:40:08 Asia/Ho_Chi_Minh] PHP   5. getTotalPagePaginationAction() /home/sucsongt/capri.vn/admin/core/base.php:77
+[07-Nov-2020 08:52:22 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: configStatus in /home/sucsongt/capri.vn/admin/modules/prod/controllers/indexController.php on line 580
+[07-Nov-2020 08:52:22 Asia/Ho_Chi_Minh] PHP Stack trace:
+[07-Nov-2020 08:52:22 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/capri.vn/admin/index.php:0
+[07-Nov-2020 08:52:22 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/capri.vn/admin/index.php:66
+[07-Nov-2020 08:52:22 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/capri.vn/admin/core/appload.php:42
+[07-Nov-2020 08:52:22 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/capri.vn/admin/core/router.php:12
+[07-Nov-2020 08:52:22 Asia/Ho_Chi_Minh] PHP   5. getTotalPagePaginationAction() /home/sucsongt/capri.vn/admin/core/base.php:77
+[07-Nov-2020 08:52:22 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/sucsongt/capri.vn/admin/modules/prod/controllers/indexController.php on line 583
+[07-Nov-2020 08:52:22 Asia/Ho_Chi_Minh] PHP Stack trace:
+[07-Nov-2020 08:52:22 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/capri.vn/admin/index.php:0
+[07-Nov-2020 08:52:22 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/capri.vn/admin/index.php:66
+[07-Nov-2020 08:52:22 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/capri.vn/admin/core/appload.php:42
+[07-Nov-2020 08:52:22 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/capri.vn/admin/core/router.php:12
+[07-Nov-2020 08:52:22 Asia/Ho_Chi_Minh] PHP   5. getTotalPagePaginationAction() /home/sucsongt/capri.vn/admin/core/base.php:77
+[07-Nov-2020 08:53:39 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: configStatus in /home/sucsongt/capri.vn/admin/modules/prod/controllers/indexController.php on line 580
+[07-Nov-2020 08:53:39 Asia/Ho_Chi_Minh] PHP Stack trace:
+[07-Nov-2020 08:53:39 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/capri.vn/admin/index.php:0
+[07-Nov-2020 08:53:39 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/capri.vn/admin/index.php:66
+[07-Nov-2020 08:53:39 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/capri.vn/admin/core/appload.php:42
+[07-Nov-2020 08:53:39 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/capri.vn/admin/core/router.php:12
+[07-Nov-2020 08:53:39 Asia/Ho_Chi_Minh] PHP   5. getTotalPagePaginationAction() /home/sucsongt/capri.vn/admin/core/base.php:77
+[07-Nov-2020 08:53:39 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/sucsongt/capri.vn/admin/modules/prod/controllers/indexController.php on line 583
+[07-Nov-2020 08:53:39 Asia/Ho_Chi_Minh] PHP Stack trace:
+[07-Nov-2020 08:53:39 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/capri.vn/admin/index.php:0
+[07-Nov-2020 08:53:39 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/capri.vn/admin/index.php:66
+[07-Nov-2020 08:53:39 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/capri.vn/admin/core/appload.php:42
+[07-Nov-2020 08:53:39 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/capri.vn/admin/core/router.php:12
+[07-Nov-2020 08:53:39 Asia/Ho_Chi_Minh] PHP   5. getTotalPagePaginationAction() /home/sucsongt/capri.vn/admin/core/base.php:77
+[07-Nov-2020 08:54:09 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: configStatus in /home/sucsongt/capri.vn/admin/modules/prod/controllers/indexController.php on line 580
+[07-Nov-2020 08:54:09 Asia/Ho_Chi_Minh] PHP Stack trace:
+[07-Nov-2020 08:54:09 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/capri.vn/admin/index.php:0
+[07-Nov-2020 08:54:09 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/capri.vn/admin/index.php:66
+[07-Nov-2020 08:54:09 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/capri.vn/admin/core/appload.php:42
+[07-Nov-2020 08:54:09 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/capri.vn/admin/core/router.php:12
+[07-Nov-2020 08:54:09 Asia/Ho_Chi_Minh] PHP   5. getTotalPagePaginationAction() /home/sucsongt/capri.vn/admin/core/base.php:77
+[07-Nov-2020 08:54:09 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/sucsongt/capri.vn/admin/modules/prod/controllers/indexController.php on line 583
+[07-Nov-2020 08:54:09 Asia/Ho_Chi_Minh] PHP Stack trace:
+[07-Nov-2020 08:54:09 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/capri.vn/admin/index.php:0
+[07-Nov-2020 08:54:09 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/capri.vn/admin/index.php:66
+[07-Nov-2020 08:54:09 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/capri.vn/admin/core/appload.php:42
+[07-Nov-2020 08:54:09 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/capri.vn/admin/core/router.php:12
+[07-Nov-2020 08:54:09 Asia/Ho_Chi_Minh] PHP   5. getTotalPagePaginationAction() /home/sucsongt/capri.vn/admin/core/base.php:77
+[07-Nov-2020 09:07:58 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: configStatus in /home/sucsongt/capri.vn/admin/modules/prod/controllers/indexController.php on line 580
+[07-Nov-2020 09:07:58 Asia/Ho_Chi_Minh] PHP Stack trace:
+[07-Nov-2020 09:07:58 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/capri.vn/admin/index.php:0
+[07-Nov-2020 09:07:58 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/capri.vn/admin/index.php:66
+[07-Nov-2020 09:07:58 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/capri.vn/admin/core/appload.php:42
+[07-Nov-2020 09:07:58 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/capri.vn/admin/core/router.php:12
+[07-Nov-2020 09:07:58 Asia/Ho_Chi_Minh] PHP   5. getTotalPagePaginationAction() /home/sucsongt/capri.vn/admin/core/base.php:77
+[07-Nov-2020 09:07:58 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/sucsongt/capri.vn/admin/modules/prod/controllers/indexController.php on line 583
+[07-Nov-2020 09:07:58 Asia/Ho_Chi_Minh] PHP Stack trace:
+[07-Nov-2020 09:07:58 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/capri.vn/admin/index.php:0
+[07-Nov-2020 09:07:58 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/capri.vn/admin/index.php:66
+[07-Nov-2020 09:07:58 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/capri.vn/admin/core/appload.php:42
+[07-Nov-2020 09:07:58 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/capri.vn/admin/core/router.php:12
+[07-Nov-2020 09:07:58 Asia/Ho_Chi_Minh] PHP   5. getTotalPagePaginationAction() /home/sucsongt/capri.vn/admin/core/base.php:77
+[13-Nov-2020 10:34:08 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function getTotalPagePaginationAction() in /home/sucsongt/capri.vn/admin/core/base.php on line 77
+[13-Nov-2020 10:34:08 Asia/Ho_Chi_Minh] PHP Stack trace:
+[13-Nov-2020 10:34:08 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/capri.vn/admin/index.php:0
+[13-Nov-2020 10:34:08 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/capri.vn/admin/index.php:66
+[13-Nov-2020 10:34:08 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/capri.vn/admin/core/appload.php:42
+[13-Nov-2020 10:34:08 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/capri.vn/admin/core/router.php:12
+[13-Nov-2020 10:34:18 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function getTotalPagePaginationAction() in /home/sucsongt/capri.vn/admin/core/base.php on line 77
+[13-Nov-2020 10:34:18 Asia/Ho_Chi_Minh] PHP Stack trace:
+[13-Nov-2020 10:34:18 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/capri.vn/admin/index.php:0
+[13-Nov-2020 10:34:18 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/capri.vn/admin/index.php:66
+[13-Nov-2020 10:34:18 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/capri.vn/admin/core/appload.php:42
+[13-Nov-2020 10:34:18 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/capri.vn/admin/core/router.php:12
+[13-Nov-2020 10:34:18 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function getDataPagePaginationAction() in /home/sucsongt/capri.vn/admin/core/base.php on line 77
+[13-Nov-2020 10:34:18 Asia/Ho_Chi_Minh] PHP Stack trace:
+[13-Nov-2020 10:34:18 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/capri.vn/admin/index.php:0
+[13-Nov-2020 10:34:18 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/capri.vn/admin/index.php:66
+[13-Nov-2020 10:34:18 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/capri.vn/admin/core/appload.php:42
+[13-Nov-2020 10:34:18 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/capri.vn/admin/core/router.php:12
+[13-Nov-2020 10:34:24 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function getTotalPagePaginationAction() in /home/sucsongt/capri.vn/admin/core/base.php on line 77
+[13-Nov-2020 10:34:24 Asia/Ho_Chi_Minh] PHP Stack trace:
+[13-Nov-2020 10:34:24 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/capri.vn/admin/index.php:0
+[13-Nov-2020 10:34:24 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/capri.vn/admin/index.php:66
+[13-Nov-2020 10:34:24 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/capri.vn/admin/core/appload.php:42
+[13-Nov-2020 10:34:24 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/capri.vn/admin/core/router.php:12
+[13-Nov-2020 10:34:24 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function getDataPagePaginationAction() in /home/sucsongt/capri.vn/admin/core/base.php on line 77
+[13-Nov-2020 10:34:24 Asia/Ho_Chi_Minh] PHP Stack trace:
+[13-Nov-2020 10:34:24 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/capri.vn/admin/index.php:0
+[13-Nov-2020 10:34:24 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/capri.vn/admin/index.php:66
+[13-Nov-2020 10:34:24 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/capri.vn/admin/core/appload.php:42
+[13-Nov-2020 10:34:24 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/capri.vn/admin/core/router.php:12
+[13-Nov-2020 10:34:30 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function getTotalPagePaginationAction() in /home/sucsongt/capri.vn/admin/core/base.php on line 77
+[13-Nov-2020 10:34:30 Asia/Ho_Chi_Minh] PHP Stack trace:
+[13-Nov-2020 10:34:30 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/capri.vn/admin/index.php:0
+[13-Nov-2020 10:34:30 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/capri.vn/admin/index.php:66
+[13-Nov-2020 10:34:30 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/capri.vn/admin/core/appload.php:42
+[13-Nov-2020 10:34:30 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/capri.vn/admin/core/router.php:12
+[13-Nov-2020 10:59:40 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function newMessAction() in /home/sucsongt/capri.vn/admin/core/base.php on line 77
+[13-Nov-2020 10:59:40 Asia/Ho_Chi_Minh] PHP Stack trace:
+[13-Nov-2020 10:59:40 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/capri.vn/admin/index.php:0
+[13-Nov-2020 10:59:40 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/capri.vn/admin/index.php:66
+[13-Nov-2020 10:59:40 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/capri.vn/admin/core/appload.php:42
+[13-Nov-2020 10:59:40 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/capri.vn/admin/core/router.php:12
+[13-Nov-2020 11:31:45 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: listTotalProd in /home/sucsongt/capri.vn/admin/modules/prod/controllers/indexController.php on line 45
+[13-Nov-2020 11:31:45 Asia/Ho_Chi_Minh] PHP Stack trace:
+[13-Nov-2020 11:31:45 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/capri.vn/admin/index.php:0
+[13-Nov-2020 11:31:45 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/capri.vn/admin/index.php:66
+[13-Nov-2020 11:31:45 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/capri.vn/admin/core/appload.php:42
+[13-Nov-2020 11:31:45 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/capri.vn/admin/core/router.php:12
+[13-Nov-2020 11:31:45 Asia/Ho_Chi_Minh] PHP   5. indexAction() /home/sucsongt/capri.vn/admin/core/base.php:77
+[16-Nov-2020 15:31:59 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: file in /home/sucsongt/capri.vn/admin/modules/prod/controllers/indexController.php on line 300
+[16-Nov-2020 15:31:59 Asia/Ho_Chi_Minh] PHP Stack trace:
+[16-Nov-2020 15:31:59 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/capri.vn/admin/index.php:0
+[16-Nov-2020 15:31:59 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/capri.vn/admin/index.php:66
+[16-Nov-2020 15:31:59 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/capri.vn/admin/core/appload.php:42
+[16-Nov-2020 15:31:59 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/capri.vn/admin/core/router.php:12
+[16-Nov-2020 15:31:59 Asia/Ho_Chi_Minh] PHP   5. uploadMultiImgAvatarAction() /home/sucsongt/capri.vn/admin/core/base.php:77
+[16-Nov-2020 15:39:17 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: file in /home/sucsongt/capri.vn/admin/modules/prod/controllers/indexController.php on line 300
+[16-Nov-2020 15:39:17 Asia/Ho_Chi_Minh] PHP Stack trace:
+[16-Nov-2020 15:39:17 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/capri.vn/admin/index.php:0
+[16-Nov-2020 15:39:17 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/capri.vn/admin/index.php:66
+[16-Nov-2020 15:39:17 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/capri.vn/admin/core/appload.php:42
+[16-Nov-2020 15:39:17 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/capri.vn/admin/core/router.php:12
+[16-Nov-2020 15:39:17 Asia/Ho_Chi_Minh] PHP   5. uploadMultiImgAvatarAction() /home/sucsongt/capri.vn/admin/core/base.php:77
+[20-Nov-2020 03:45:16 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sucsongt/capri.vn/admin/libraries/database.php on line 7
+[20-Nov-2020 03:45:16 Asia/Ho_Chi_Minh] PHP Stack trace:
+[20-Nov-2020 03:45:16 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/capri.vn/admin/index.php:0
+[20-Nov-2020 03:45:16 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/capri.vn/admin/index.php:66
+[20-Nov-2020 03:45:16 Asia/Ho_Chi_Minh] PHP   3. db_connect() /home/sucsongt/capri.vn/admin/core/appload.php:40
+[20-Nov-2020 03:45:16 Asia/Ho_Chi_Minh] PHP   4. mysqli_connect() /home/sucsongt/capri.vn/admin/libraries/database.php:7
+[20-Nov-2020 03:45:16 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sucsongt/capri.vn/admin/libraries/database.php on line 7
+[20-Nov-2020 03:45:16 Asia/Ho_Chi_Minh] PHP Stack trace:
+[20-Nov-2020 03:45:16 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/capri.vn/admin/index.php:0
+[20-Nov-2020 03:45:16 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/capri.vn/admin/index.php:66
+[20-Nov-2020 03:45:16 Asia/Ho_Chi_Minh] PHP   3. db_connect() /home/sucsongt/capri.vn/admin/core/appload.php:40
+[20-Nov-2020 03:45:16 Asia/Ho_Chi_Minh] PHP   4. mysqli_connect() /home/sucsongt/capri.vn/admin/libraries/database.php:7
+[20-Nov-2020 03:45:16 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sucsongt/capri.vn/admin/libraries/database.php on line 7
+[20-Nov-2020 03:45:16 Asia/Ho_Chi_Minh] PHP Stack trace:
+[20-Nov-2020 03:45:16 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/capri.vn/admin/index.php:0
+[20-Nov-2020 03:45:16 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/capri.vn/admin/index.php:66
+[20-Nov-2020 03:45:16 Asia/Ho_Chi_Minh] PHP   3. db_connect() /home/sucsongt/capri.vn/admin/core/appload.php:40
+[20-Nov-2020 03:45:16 Asia/Ho_Chi_Minh] PHP   4. mysqli_connect() /home/sucsongt/capri.vn/admin/libraries/database.php:7
+[20-Nov-2020 03:45:16 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sucsongt/capri.vn/admin/libraries/database.php on line 7
+[20-Nov-2020 03:45[21-Nov-2020 11:08:02 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: file in /home/sucsongt/capri.vn/admin/modules/prod/controllers/indexController.php on line 300
+[21-Nov-2020 11:08:02 Asia/Ho_Chi_Minh] PHP Stack trace:
+[21-Nov-2020 11:08:02 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/capri.vn/admin/index.php:0
+[21-Nov-2020 11:08:02 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/capri.vn/admin/index.php:66
+[21-Nov-2020 11:08:02 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/capri.vn/admin/core/appload.php:42
+[21-Nov-2020 11:08:02 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/capri.vn/admin/core/router.php:12
+[21-Nov-2020 11:08:02 Asia/Ho_Chi_Minh] PHP   5. uploadMultiImgAvatarAction() /home/sucsongt/capri.vn/admin/core/base.php:77
+[21-Nov-2020 11:09:27 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: file in /home/sucsongt/capri.vn/admin/modules/prod/controllers/indexController.php on line 300
+[21-Nov-2020 11:09:27 Asia/Ho_Chi_Minh] PHP Stack trace:
+[21-Nov-2020 11:09:27 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/capri.vn/admin/index.php:0
+[21-Nov-2020 11:09:27 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/capri.vn/admin/index.php:66
+[21-Nov-2020 11:09:27 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/capri.vn/admin/core/appload.php:42
+[21-Nov-2020 11:09:27 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/capri.vn/admin/core/router.php:12
+[21-Nov-2020 11:09:27 Asia/Ho_Chi_Minh] PHP   5. uploadMultiImgAvatarAction() /home/sucsongt/capri.vn/admin/core/base.php:77
+[21-Nov-2020 11:13:25 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: file in /home/sucsongt/capri.vn/admin/modules/prod/controllers/indexController.php on line 300
+[21-Nov-2020 11:13:25 Asia/Ho_Chi_Minh] PHP Stack trace:
+[21-Nov-2020 11:13:25 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/capri.vn/admin/index.php:0
+[21-Nov-2020 11:13:25 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/capri.vn/admin/index.php:66
+[21-Nov-2020 11:13:25 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/capri.vn/admin/core/appload.php:42
+[21-Nov-2020 11:13:25 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/capri.vn/admin/core/router.php:12
+[21-Nov-2020 11:13:25 Asia/Ho_Chi_Minh] PHP   5. uploadMultiImgAvatarAction() /home/sucsongt/capri.vn/admin/core/base.php:77
+[21-Nov-2020 11:14:20 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: file in /home/sucsongt/capri.vn/admin/modules/prod/controllers/indexController.php on line 300
+[21-Nov-2020 11:14:20 Asia/Ho_Chi_Minh] PHP Stack trace:
+[21-Nov-2020 11:14:20 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/capri.vn/admin/index.php:0
+[21-Nov-2020 11:14:20 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/capri.vn/admin/index.php:66
+[21-Nov-2020 11:14:20 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/capri.vn/admin/core/appload.php:42
+[21-Nov-2020 11:14:20 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/capri.vn/admin/core/router.php:12
+[21-Nov-2020 11:14:20 Asia/Ho_Chi_Minh] PHP   5. uploadMultiImgAvatarAction() /home/sucsongt/capri.vn/admin/core/base.php:77
+[23-Nov-2020 10:38:48 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: file in /home/sucsongt/capri.vn/admin/modules/prod/controllers/indexController.php on line 300
+[23-Nov-2020 10:38:48 Asia/Ho_Chi_Minh] PHP Stack trace:
+[23-Nov-2020 10:38:48 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/capri.vn/admin/index.php:0
+[23-Nov-2020 10:38:48 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/capri.vn/admin/index.php:66
+[23-Nov-2020 10:38:48 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/capri.vn/admin/core/appload.php:42
+[23-Nov-2020 10:38:48 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/capri.vn/admin/core/router.php:12
+[23-Nov-2020 10:38:48 Asia/Ho_Chi_Minh] PHP   5. uploadMultiImgAvatarAction() /home/sucsongt/capri.vn/admin/core/base.php:77
+[23-Nov-2020 10:39:31 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: file in /home/sucsongt/capri.vn/admin/modules/prod/controllers/indexController.php on line 300
+[23-Nov-2020 10:39:31 Asia/Ho_Chi_Minh] PHP Stack trace:
+[23-Nov-2020 10:39:31 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/capri.vn/admin/index.php:0
+[23-Nov-2020 10:39:31 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/capri.vn/admin/index.php:66
+[23-Nov-2020 10:39:31 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/capri.vn/admin/core/appload.php:42
+[23-Nov-2020 10:39:31 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/capri.vn/admin/core/router.php:12
+[23-Nov-2020 10:39:31 Asia/Ho_Chi_Minh] PHP   5. uploadMultiImgAvatarAction() /home/sucsongt/capri.vn/admin/core/base.php:77
+[23-Nov-2020 15:47:20 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cate_level_2 in /home/sucsongt/capri.vn/admin/modules/prod/controllers/indexController.php on line 217
+[23-Nov-2020 15:47:20 Asia/Ho_Chi_Minh] PHP Stack trace:
+[23-Nov-2020 15:47:20 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/capri.vn/admin/index.php:0
+[23-Nov-2020 15:47:20 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/capri.vn/admin/index.php:66
+[23-Nov-2020 15:47:20 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/capri.vn/admin/core/appload.php:42
+[23-Nov-2020 15:47:20 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/capri.vn/admin/core/router.php:12
+[23-Nov-2020 15:47:20 Asia/Ho_Chi_Minh] PHP   5. addAction() /home/sucsongt/capri.vn/admin/core/base.php:77
+[29-Nov-2020 15:16:16 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function rregAction() in /home/sucsongt/capri.vn/admin/core/base.php on line 77
+[29-Nov-2020 15:16:16 Asia/Ho_Chi_Minh] PHP Stack trace:
+[29-Nov-2020 15:16:16 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/capri.vn/admin/index.php:0
+[29-Nov-2020 15:16:16 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/capri.vn/admin/index.php:66
+[29-Nov-2020 15:16:16 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/capri.vn/admin/core/appload.php:42
+[29-Nov-2020 15:16:16 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/capri.vn/admin/core/router.php:12
+[29-Nov-2020 15:16:34 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function registerAction() in /home/sucsongt/capri.vn/admin/core/base.php on line 77
+[29-Nov-2020 15:16:34 Asia/Ho_Chi_Minh] PHP Stack trace:
+[29-Nov-2020 15:16:34 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/sucsongt/capri.vn/admin/index.php:0
+[29-Nov-2020 15:16:34 Asia/Ho_Chi_Minh] PHP   2. require() /home/sucsongt/capri.vn/admin/index.php:66
+[29-Nov-2020 15:16:34 Asia/Ho_Chi_Minh] PHP   3. require() /home/sucsongt/capri.vn/admin/core/appload.php:42
+[29-Nov-2020 15:16:34 Asia/Ho_Chi_Minh] PHP   4. call_function() /home/sucsongt/capri.vn/admin/core/router.php:12

@@ -1,0 +1,273 @@
+#main-content-wrap {
+    margin-top: 87px;
+}
+
+
+/* section section-top-act */
+
+section.section-top-act .root {
+    margin: 15px;
+    background-color: var(--main-color);
+    padding: 10px 0px;
+}
+
+section.section-top-act .form-select-action {
+    position: relative;
+    display: flex;
+}
+
+section.section-top-act .section-left .form-select-action select {
+    width: 320px;
+    background-color: var(--secound-color);
+    border: 1px solid rgba(225, 225, 225, 0.12);
+    border-radius: 0;
+    color: var(--primary-color);
+}
+
+section.section-top-act .section-left .form-select-action button.btn-action-work {
+    background-color: var(--primary-color);
+    border: 1px solid var(--main-color);
+    color: var(--main-color);
+    font-weight: bold;
+    padding: 0 20px;
+    cursor: pointer;
+}
+
+section.section-top-act .section-right ul li a {
+    color: #ffffff;
+    margin-left: 10px;
+    background-color: var(--secound-color);
+    padding: 5px 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .4);
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    border: 1px solid var(--secound-color);
+}
+
+section.section-top-act .section-right ul li a.active {
+    border: 1px solid rgba(225, 225, 225, 1);
+    pointer-events: none;
+}
+
+section.section-top-act .section-right ul li a label {
+    cursor: pointer;
+}
+
+section.section-top-act .section-right ul li a span.value {
+    display: inline-block;
+    padding: 2px 3px;
+    border-radius: 5px;
+    margin-left: 10px;
+    background-color: var(--primary-color);
+    color: var(--main-color);
+}
+
+
+/*  */
+
+.form-sction .cate-level-filter {
+    width: 270px;
+    background-color: var(--secound-color);
+    border: 1px solid rgba(225, 225, 225, 0.12);
+    border-radius: 0;
+    color: var(--primary-color);
+}
+
+.form-sction .btn-filter-by-cate {
+    background-color: #ffffff;
+    border: 1px solid var(--main-color);
+    color: var(--main-color);
+    font-weight: bold;
+    cursor: pointer;
+}
+
+
+/* section main table */
+
+section.main-table .root {
+    background-color: var(--main-color);
+    margin: 15px;
+    padding: 15px;
+}
+
+section.main-table table.table-wrap {
+    width: 100%;
+    color: var(--primary-color);
+}
+
+section.main-table table.table-wrap tr td {
+    text-align: center;
+    border: 1px solid rgba(225, 225, 225, 0.12);
+}
+
+section.main-table table.table-wrap thead {
+    background-color: var(--secound-color);
+}
+
+section.main-table table.table-wrap thead tr td {
+    padding: 15px 5px;
+}
+
+section.main-table table.table-wrap tbody tr td {
+    padding: 7px 5px;
+    vertical-align: middle;
+}
+
+section.main-table table.table-wrap tr td .thumbNail {
+    width: 90px;
+    height: 100px;
+    margin: 0 auto;
+}
+
+section.main-table table.table-wrap tr td .thumbNail img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+section.main-table table.table-wrap tr td a.view_vl {
+    color: #00b6ff;
+}
+
+section.main-table table.table-wrap tr td .time_vl {
+    font-size: .9rem;
+}
+
+section.main-table table.table-wrap tr td .operation-list-setting {
+    position: relative;
+}
+
+section.main-table table.table-wrap tr td .operation-list-setting button {
+    background-color: var(--secound-color);
+    padding: 7px;
+    color: var(--primary-color);
+    border: none;
+    width: 35px;
+    height: 35px;
+    margin: 0 auto;
+    font-size: 1.1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 10px;
+    cursor: pointer;
+}
+
+section.main-table table.table-wrap tr td .operation-list-setting button:hover {
+    background-color: #2696a0;
+}
+
+section.main-table table.table-wrap tr td .operation-list-setting .active-name {
+    position: absolute;
+    top: -25px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: .8rem;
+}
+
+
+/*  */
+
+.switch {
+    margin-top: 10px;
+}
+
+.switch label[data-active='on'] .lever {
+    background-color: #329dbb;
+}
+
+.switch.status .lever {
+    width: 55px;
+    height: 16px;
+}
+
+.switch label .lever {
+    content: "";
+    display: inline-block;
+    position: relative;
+    width: 40px;
+    height: 15px;
+    background-color: #818181;
+    border-radius: 15px;
+    margin-right: 10px;
+    transition: background 0.3s ease;
+    vertical-align: middle;
+    margin: 0 14px;
+    cursor: pointer;
+}
+
+.switch label[data-active='on'] .lever:after {
+    left: 30px;
+    background-color: #00a1ff;
+}
+
+.switch label[data-active='off'] .lever:after {
+    left: 0;
+    background-color: #8e8e8e;
+}
+
+.switch.status label .lever:after {
+    width: 25px;
+    height: 25px;
+}
+
+.switch label .lever:after {
+    content: "";
+    position: absolute;
+    display: inline-block;
+    width: 21px;
+    height: 21px;
+    background-color: #F1F1F1;
+    border-radius: 21px;
+    box-shadow: 0 1px 3px 1px rgba(0, 0, 0, 0.4);
+    top: -5px;
+    transition: left 0.3s ease, background .3s ease, box-shadow 0.1s ease;
+}
+
+
+/* add more */
+
+.view-action-add {
+    background-color: #fff;
+    display: inline-block;
+    padding: 7px 15px;
+    border-radius: 5px;
+    color: var(--main-color);
+}
+
+.__value {
+    position: relative;
+}
+
+.__value .checked {
+    width: 30px;
+    height: 30px;
+    background-color: #fff;
+    display: block;
+    margin: 0 auto;
+    border-radius: 100%;
+    position: relative;
+}
+
+.__value .checked::after {
+    content: "";
+    width: 5px;
+    height: 20px;
+    background-color: var(--main-color);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%) rotate(-46deg);
+}
+
+.__value .checked::before {
+    content: "";
+    width: 5px;
+    height: 20px;
+    background-color: var(--main-color);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%) rotate(43deg);
+}

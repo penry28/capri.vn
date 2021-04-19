@@ -1,0 +1,157 @@
+/* flex */
+
+.flex-wrap {
+    flex-wrap: wrap;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.justify-content-center {
+    justify-content: center;
+}
+
+.position-relative {
+    position: relative;
+}
+
+.justify-content-between {
+    justify-content: space-between;
+}
+
+.align-items-start {
+    align-items: flex-start;
+}
+
+.align-items-between {
+    justify-content: space-between;
+}
+
+.justify-content-end {
+    justify-content: flex-end;
+}
+
+.align-items-center {
+    align-items: center;
+}
+
+.align-items-end {
+    align-items: flex-end;
+}
+
+
+/* thumbNail */
+
+.thumbNail {
+    display: block;
+}
+
+.divider {
+    display: block;
+    overflow: hidden;
+}
+
+
+/* images */
+
+.img-fluid {
+    width: 100%;
+    height: 100%;
+}
+
+
+/* height & width */
+
+.h-100 {
+    height: 100%;
+}
+
+
+/* svg */
+
+svg:not(:root) {
+    overflow: hidden;
+}
+
+svg {
+    overflow: hidden;
+    vertical-align: middle;
+}
+
+
+/* modal */
+
+.modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    -webkit-backdrop-filter: saturate(180%) blur(10px);
+    -ms-backdrop-filter: saturate(180%) blur(10px);
+    -o-backdrop-filter: saturate(180%) blur(10px);
+    backdrop-filter: saturate(180%) blur(10px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: -1;
+    opacity: 0;
+    visibility: hidden;
+}
+
+.modal.open {
+    z-index: 10000;
+    opacity: 1;
+    visibility: visible;
+}
+
+.modal-mask {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+}
+
+.modal-content {
+    position: relative;
+    z-index: 2;
+    transform: translateY(-100px) scale(.5);
+    opacity: 0;
+    visibility: hidden;
+    transition: all .2s cubic-bezier(.5, 0, 0, 1.25), opacity .15s ease-out;
+}
+
+.modal.open .modal-content {
+    transform: translateY(0) scale(1);
+    opacity: 1;
+    visibility: visible;
+    transition: all .2s cubic-bezier(.5, 0, 0, 1.25), opacity .15s ease-out;
+}
+
+.close-modal {
+    display: block;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    font-size: 1.3rem;
+    background-color: #ffffff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    border-radius: 100%;
+    position: absolute;
+    top: -20px;
+    right: -20px;
+    cursor: pointer;
+    color: #333333;
+}
+
+.position-absolute {
+    position: absolute;
+}
+
+.justify-center {
+    justify-content: center;
+}

@@ -1,0 +1,51 @@
+.breadcrumb-list {
+    margin-top: 88px;
+}
+
+
+/* section 2 list-statistics */
+
+section.list-statistics .root {
+    margin: 0 5px;
+}
+
+section.list-statistics .statistics-item {
+    padding: 0 10px;
+    margin-bottom: 20px;
+}
+
+section.list-statistics .statistics-item .statistics-item-wrap {
+    padding: 15px;
+}
+
+.statistics-item .statistics-item-wrap .name-sta__ {
+    color: var(--primary-color);
+    font-size: 1.1rem;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.statistics-item .statistics-item-wrap .label {
+    display: inline;
+    padding: .2em .6em .3em;
+    font-size: 75%;
+    font-weight: 700;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+}
+
+.statistics-item .statistics-item-wrap .ertical-box-right .data {
+    font-weight: bold;
+    font-size: 1.1rem;
+    color: var(--primary-color);
+}
+
+.statistics-item .statistics-item-wrap .progress {
+    height: 5px;
+    margin-top: 15px;
+    margin-bottom: 0px;
+}
